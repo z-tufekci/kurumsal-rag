@@ -73,9 +73,13 @@ def yanit_uret(soru: str, vektorler, parcalar) -> tuple[str, list[dict]]:
     )
     yanit.raise_for_status()
     metin = yanit.json()["message"]["content"]
-    # Eski Ollama sürümleri "think" alanını tanımaz; <think> bloğu sızarsa temizle
-    metin = re.sub(r"<think>.*?</think>", "", metin, flags=re.DOTALL).strip()
-    return metin, sonuclar
+    # "think" ayarını tanımayan Ollama/model kombinasyonlarında düşünme metni
+    # yanıta sızabilir; bazen açılış <think> etiketi de bulunmaz. Her iki
+    # durumda da son </think> etiketine kadar olan kısmı at.
+    metin = re.sub(r"<think>.*?</think>", "", metin, flags=re.DOTALL)
+    if "</think>" in metin:
+        metin = metin.rsplit("</think>", 1)[-1]
+    return metin.strip(), sonuclar
 
 
 if __name__ == "__main__":
