@@ -25,7 +25,10 @@ from asama3_gomme import kosinus_benzerligi, metinleri_gom
 from asama4_vektor_deposu import indeks_yukle
 
 TOP_K = 4    # LLM'e gönderilecek en fazla parça sayısı
-ESIK = 0.35  # benzerlik eşiği (distance threshold): altı "alakasız" sayılır
+ESIK = 0.45  # benzerlik eşiği (distance threshold): altı "alakasız" sayılır.
+             # BGE-M3'te alakasız metinler bile ~0.40 benzerlik alabildiği için
+             # 0.45 seçildi; değer degerlendirme.py deneyleriyle bulundu (0.35'e
+             # göre isabet aynı, yanlış "alakalı" sayma daha az). Kurcalayın!
 
 
 def ara(soru: str, vektorler: np.ndarray, parcalar: list[dict],
