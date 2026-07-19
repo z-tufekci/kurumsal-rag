@@ -11,7 +11,10 @@ Zorluk: ⭐ kolay · ⭐⭐ orta · ⭐⭐⭐ ileri
 **Dosya:** `asama2_parcalama.py`
 **Gözlemleyin:** `PARCA_BOYU`'nu 200'e düşürün ve 3000'e çıkarın; aynı 5 soru
 için `asama5` skorları ve gelen parçalar nasıl değişiyor? `BINDIRME=0`
-yapınca parça sınırındaki cümlelere ne oluyor?
+yapınca parça sınırındaki cümlelere ne oluyor? `PARCA_BOYU=3000` iken
+`asama6`'da bağlam bütçesi (`BAGLAM_BUTCESI`) uyarısı hangi `TOP_K`
+değerinde gelmeye başlıyor — `--goster` ile doluluk oranını izleyin;
+top-k "kaç parça istiyorum", bütçe "kaçı sığar" sorusudur.
 **Yapın:** Paragraf sınırını (`\n\n`) gözeten bir bölme stratejisi ekleyin;
 karakter penceresiyle karşılaştırın.
 

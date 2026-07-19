@@ -31,6 +31,34 @@ from asama5_getirme import ara
 
 LLM_MODELI = "qwen3:4b"
 
+BAGLAM_BUTCESI = 12000  # bağlama girecek parçaların toplam karakter bütçesi
+                        # (context budget). num_ctx=8192 token'ın kabaca yarısı:
+                        # talimat + soru + cevap payı düşülse bile güvenli kalır.
+
+
+def butceye_sigdir(sonuclar: list[dict]) -> list[dict]:
+    """Parçaları skor sırasıyla, bütçeye sığdığı kadar seçer (context budget).
+
+    Neden biz yönetiyoruz: Ollama, pencereyi (num_ctx) aşan prompt'u SESSİZCE
+    baştan kırpar — sistem talimatı dahil. Bütçeyi uygulama katmanında kendimiz
+    yöneterek iki şeyi garanti ederiz: kurallar asla kesilmez ve kesilen her
+    zaman en düşük skorlu parçadır; atılan parça da ekrana yazılır, sessiz
+    bozulma olmaz.
+    """
+    secilen, toplam = [], 0
+    for s in sonuclar:
+        if toplam + len(s["metin"]) > BAGLAM_BUTCESI:
+            print(f"⚠ Bağlam bütçesi ({BAGLAM_BUTCESI} karakter) doldu: "
+                  f"{len(sonuclar) - len(secilen)} parça prompt'a alınmadı.")
+            break
+        secilen.append(s)
+        toplam += len(s["metin"])
+    if not secilen and sonuclar:  # tek parça bile bütçeden büyükse kırpıp al
+        kirpik = dict(sonuclar[0])
+        kirpik["metin"] = kirpik["metin"][:BAGLAM_BUTCESI]
+        secilen = [kirpik]
+    return secilen
+
 SISTEM_TALIMATI = """Sen kurum içi dokümanlara dayanarak soru yanıtlayan bir asistansın.
 Kurallar:
 1. YALNIZCA sana verilen bağlam parçalarını kullan; kendi genel bilgini katma.
@@ -56,6 +84,7 @@ def yanit_uret(soru: str, vektorler, parcalar) -> tuple[str, list[dict]]:
     sonuclar = ara(soru, vektorler, parcalar)
     if not sonuclar:
         return ("Bu soruyla ilgili doküman bulamadım; farklı sözcüklerle sormayı deneyin.", [])
+    sonuclar = butceye_sigdir(sonuclar)
 
     yanit = requests.post(
         f"{OLLAMA_URL}/api/chat",
@@ -106,13 +135,17 @@ if __name__ == "__main__":
             if not sonuclar:
                 print("İlgili doküman bulunamadı; prompt kurulmadı.\n")
                 continue
+            sonuclar = butceye_sigdir(sonuclar)
+            baglam_boyu = sum(len(s["metin"]) for s in sonuclar)
             kullanici_mesaji = prompt_olustur(soru, sonuclar)
             print(f"\n════ 1/2: SİSTEM TALİMATI (system, {len(SISTEM_TALIMATI)} karakter) ════")
             print(SISTEM_TALIMATI)
             print(f"\n════ 2/2: KULLANICI MESAJI (user, {len(kullanici_mesaji)} karakter) ════")
             print(kullanici_mesaji)
             print("\n════ SON ════ Model bu iki mesaj DIŞINDA hiçbir şey görmez;")
-            print("dokümanların geri kalanı onun için yoktur. (Bağlam penceresi: num_ctx=8192 token)\n")
+            print("dokümanların geri kalanı onun için yoktur.")
+            print(f"Bağlam bütçesi: {baglam_boyu}/{BAGLAM_BUTCESI} karakter "
+                  f"({len(sonuclar)} parça). Pencere: num_ctx=8192 token.\n")
             continue
         metin, sonuclar = yanit_uret(soru, vektorler, parcalar)
         print(f"\n{metin}\n")
