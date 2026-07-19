@@ -91,6 +91,20 @@ kolon başlıkları kayboluyor — "34 | 2021 | 97" satırı tek başına ne anl
 satırını yeniden ekleyin. Kurumsal projedeki Excel işleyicisi tam olarak bunu
 yapar: "sheet başlıkları korunarak satır grupları".
 
+## 12. PowerPoint Desteği ⭐⭐
+**Dosya:** `asama1_belge_okuma.py`
+**Yapın:** python-pptx ile .pptx okuyucu ekleyin: slayt metni + tablolar +
+konuşmacı notları; sitasyon `[dosya, slayt N]` biçiminde olsun ("sayfa"
+alanına slayt numarası yazmak yeterli). `dokumanlar/` için 2-3 kurgusal
+sunum da üretin ve soru setine 4-5 soru ekleyin.
+
+## 13. Geri Bildirim Kaydı ⭐⭐
+**Dosya:** `asama6_naive_rag.py` (+ yeni `geri_bildirim.py`)
+**Yapın:** Her yanıttan sonra kullanıcıya 👍/👎 sorun; soru, yanıt, kaynaklar
+ve puanı SQLite'a kaydedin. 👍 alan örnekler ileride fine-tuning verisi,
+👎 alanlar hata analizi malzemesidir. Kurumsal projedeki denetim izinin
+(audit) en yalın halidir.
+
 ## Kurumsal projeyle eşleşme
 
 | Ödev | Kurumsal projedeki karşılığı |
@@ -101,6 +115,8 @@ yapar: "sheet başlıkları korunarak satır grupları".
 | 7 | `prompts.py` — injection savunması |
 | 9 | `parsing/pdf.py` — OCR eşiği (`ocr_esik_karakter`) |
 | 10 | `app.py` — Streamlit sohbet |
+| 12 | `parsing/pptx.py` — slayt + not + `[dosya, slayt N]` sitasyonu |
+| 13 | `audit.py` — denetim izi + 👍/👎 geri bildirim |
 
 Ödevleri bitiren stajyer, kurumsal projenin mimarisini "okuyarak" değil
 "yaşayarak" öğrenmiş olur.
