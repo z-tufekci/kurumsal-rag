@@ -1,2 +1,2 @@
 # kurumsal-rag
-Kurumsal dokumanların sorgulanabildigi bir bilgi getirme platformu
+Kurumsal dokumanların sorgulanabildigi ve sorulan soruya bilgi getirme platformu
