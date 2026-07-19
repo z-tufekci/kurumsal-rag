@@ -83,13 +83,37 @@ def yanit_uret(soru: str, vektorler, parcalar) -> tuple[str, list[dict]]:
 
 
 if __name__ == "__main__":
+    import argparse
+
+    ap = argparse.ArgumentParser(description="Naive RAG sohbeti")
+    ap.add_argument("--goster", action="store_true",
+                    help="Kuru çalıştırma: LLM'i ÇAĞIRMADAN, ona gidecek prompt'u "
+                         "olduğu gibi ekrana bas (modelin gördüğü şeyin tamamı)")
+    args = ap.parse_args()
+
     vektorler, parcalar = indeks_yukle()
-    print(f"Naive RAG hazır — model: {LLM_MODELI}, indeks: {len(parcalar)} parça.")
+    if args.goster:
+        print(f"Prompt gösterim modu — LLM çağrılmaz. İndeks: {len(parcalar)} parça.")
+    else:
+        print(f"Naive RAG hazır — model: {LLM_MODELI}, indeks: {len(parcalar)} parça.")
     print("Çıkmak için boş satır.\n")
     while True:
         soru = input("Soru: ").strip()
         if not soru:
             break
+        if args.goster:
+            sonuclar = ara(soru, vektorler, parcalar)
+            if not sonuclar:
+                print("İlgili doküman bulunamadı; prompt kurulmadı.\n")
+                continue
+            kullanici_mesaji = prompt_olustur(soru, sonuclar)
+            print(f"\n════ 1/2: SİSTEM TALİMATI (system, {len(SISTEM_TALIMATI)} karakter) ════")
+            print(SISTEM_TALIMATI)
+            print(f"\n════ 2/2: KULLANICI MESAJI (user, {len(kullanici_mesaji)} karakter) ════")
+            print(kullanici_mesaji)
+            print("\n════ SON ════ Model bu iki mesaj DIŞINDA hiçbir şey görmez;")
+            print("dokümanların geri kalanı onun için yoktur. (Bağlam penceresi: num_ctx=8192 token)\n")
+            continue
         metin, sonuclar = yanit_uret(soru, vektorler, parcalar)
         print(f"\n{metin}\n")
         if sonuclar:

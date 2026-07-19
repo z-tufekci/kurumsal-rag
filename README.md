@@ -83,6 +83,7 @@ python asama3_gomme.py        # buradan itibaren Ollama çalışıyor olmalı
 python asama4_vektor_deposu.py
 python asama5_getirme.py      # retrieval'ı LLM'siz test edin — önemli alışkanlık!
 python asama6_naive_rag.py    # uçtan uca sohbet
+python asama6_naive_rag.py --goster  # LLM'i çağırmadan ona gidecek prompt'u göster
 ```
 
 Deneme soruları (örnek dokümanlara göre):
