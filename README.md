@@ -33,14 +33,21 @@ Belgeler (dokumanlar/)
 
 ## Kurulum
 
-1. [Ollama](https://ollama.com) kurun ve modelleri indirin (tek seferlik, internet gerekir):
+1. Projeyi bilgisayarınıza indirin:
+
+   ```
+   git clone https://github.com/z-tufekci/kurumsal-rag.git
+   cd kurumsal-rag
+   ```
+
+2. [Ollama](https://ollama.com) kurun ve modelleri indirin (tek seferlik, internet gerekir):
 
    ```
    ollama pull bge-m3      # embedding modeli (kurumsal projeyle aynı)
    ollama pull qwen3:4b    # yanıt üreten lokal LLM
    ```
 
-2. Python ortamı (3.10+):
+3. Python ortamı (3.10+):
 
    ```powershell
    # Windows
