@@ -1,0 +1,133 @@
+no,soru,beklenen_cevap,kaynak_dosyalar,tip
+1,"HGS ile SGS arasındaki temel fark nedir?","HGS RFID etiketle çalışır ve ön ödemelidir; SGS plaka tanıma ile çalışır ve ay sonu faturalı (son ödemeli) olup kurumsal filolar içindir.","hgs_sgs_bilgi_notu.txt",tekil
+2,"HGS etiketi kaç liradır ve ilk yüklemede en az ne kadar bakiye gerekir?","Etiket 60 TL (2026); ilk yüklemede en az 100 TL bakiye şartı vardır.","hgs_sgs_bilgi_notu.txt",sayisal
+3,"HGS'de bakiye yetersiz kaldığında ceza ne zaman ve ne kadar uygulanır?","15 gün içinde bakiye tamamlanmazsa geçiş ücretinin 4 katı ceza uygulanır.","hgs_sgs_bilgi_notu.txt",sayisal
+4,"Geçiş kayıtlarına itiraz süresi nedir ve itirazlar kaç günde sonuçlanır?","Geçiş tarihinden itibaren 30 gün içinde itiraz edilir; 7 iş günü içinde sonuçlandırılır.","hgs_sgs_bilgi_notu.txt",sayisal
+5,"SGS'de plaka okunamazsa ne olur?","Geçiş kaydı elle inceleme kuyruğuna düşer ve operatör tarafından doğrulanır.","hgs_sgs_bilgi_notu.txt",tekil
+6,"Taşıt kimliğini kameralarla tanıyarak ücret toplayan sistem hangisidir?","SGS (Serbest Geçiş Sistemi) plaka tanıma teknolojisiyle çalışır.","hgs_sgs_bilgi_notu.txt",es_anlamli
+7,"8 yıl kıdemi olan personel kaç gün yıllık izin alır?","20 gün (5-15 yıl arası hizmet süresi dilimi).","izin_yonergesi.txt",sayisal
+8,"Yıllık iznin en az kaç günlük bölümü kesintisiz kullanılmak zorundadır?","En az 10 günlük bölümü kesintisiz kullanılır.","izin_yonergesi.txt",sayisal
+9,"Evlilik durumunda kaç gün mazeret izni verilir?","5 gün; mazeret izinleri yıllık izinden düşülmez.","izin_yonergesi.txt",sayisal
+10,"Tek hekim raporuyla bir seferde ve yılda toplam kaç gün hastalık izni kullanılabilir?","Bir seferde en fazla 10 gün, yıl içinde toplam 40 gün.","izin_yonergesi.txt",sayisal
+11,"Ücretsiz izin talep etmenin şartları nelerdir?","En az 1 yıl kıdem; azami 12 ay; İnsan Kaynakları değerlendirir, genel müdür onayıyla kesinleşir; süre kıdeme sayılmaz.","izin_yonergesi.txt",tekil
+12,"İzin talebi izin başlangıcından kaç gün önce yapılmalıdır?","En az 5 iş günü önce personel portalından.","izin_yonergesi.txt",sayisal
+13,"Kar küreme bıçağı yol yüzeyinden kaç santimetre yükseklikte ayarlanır?","2 santimetre; yüzeye temas eden bıçak yolu ve ekipmanı yıpratır.","yol_bakim_araclari.txt",sayisal
+14,"Tuz solüsyonu katı tuza göre ne kadar malzeme tasarrufu sağlar?","Yüzde 30 daha az malzemeyle aynı buzlanma önleme etkisini sağlar.","yol_bakim_araclari.txt",sayisal
+15,"Ekipmanlarda motor yağı ve filtre değişimi hangi periyotta yapılır?","250 saatte bir.","yol_bakim_araclari.txt",sayisal
+16,"Kar küreme aracı kullanmak için hangi ehliyet ve eğitim gerekir?","G sınıfı ehliyet ve kurum içi operatör eğitimi; rotatif kar makinesi için ek üretici sertifikası.","yol_bakim_araclari.txt",tekil
+17,"Buz çözücü malzeme hangi araçlarla yola uygulanıyor?","Tuzlama ve solüsyon araçlarıyla; katı tuz veya tuz solüsyonu püskürtülür.","yol_bakim_araclari.txt",es_anlamli
+18,"Ana arter kavşağındaki sinyal arızasına en geç kaç saatte müdahale edilir?","En geç 2 saat; tam sinyal sönümünde her koşulda 2 saat.","sinyalizasyon_bakim_talimati.txt",sayisal
+19,"LED sinyal modüllerinin nominal ömrü kaç saattir?","50.000 saat; ömrünü dolduran modüller planlı bakımda değiştirilir.","sinyalizasyon_bakim_talimati.txt",sayisal
+20,"Değişken mesaj işaretlerine mesajı kim girebilir?","Yalnızca bölge trafik yönetim merkezi; saha ekiplerinin yetkisi yoktur.","sinyalizasyon_bakim_talimati.txt",tekil
+21,"Düşük hacimli kavşaklarda flaşlı sarı moda hangi saatlerde geçilir?","Gece 23.00 - 06.00 arasında.","sinyalizasyon_bakim_talimati.txt",sayisal
+22,"2026'da 1. sınıf araçlar için otoyol kilometre ücreti kaç TL?","1,45 TL/km.","ucretlendirme_tarifesi_2026.txt",sayisal
+23,"Gece indirimi hangi saatlerde ve yüzde kaçtır?","01.00 - 05.00 arasında yüzde 20; köprü geçişlerinde geçerli değildir.","ucretlendirme_tarifesi_2026.txt",sayisal
+24,"Motosikletler köprü geçişinde ücret öder mi?","Hayır, motosikletlerden köprü geçişlerinde ücret alınmaz.","ucretlendirme_tarifesi_2026.txt",tekil
+25,"Sık kullanım indirimi nasıl uygulanır?","Aynı ayda 40'tan fazla geçiş yapan ticari araçlara, 40'ıncı geçişten sonrakiler için yüzde 15.","ucretlendirme_tarifesi_2026.txt",sayisal
+26,"Boğaz köprüsü 1. sınıf tek yön geçiş ücreti kaç TL?","42 TL (2026 tarifesi).","ucretlendirme_tarifesi_2026.txt",sayisal
+27,"Kaç dinlenme tesisinde DC hızlı şarj istasyonu var?","12 tesiste; her istasyonda en az 4 nokta, 180 kW, CCS2.","elektrikli_arac_sarj_istasyonlari.txt",sayisal
+28,"DC hızlı şarjın kilovatsaat ücreti nedir?","8,90 TL; 350 kW ultra hızlı ünitelerde 10,50 TL.","elektrikli_arac_sarj_istasyonlari.txt",sayisal
+29,"Şarj bitince soketi işgal eden araçtan ne alınır?","30 dakikadan sonra dakika başına 2 TL işgal bedeli.","elektrikli_arac_sarj_istasyonlari.txt",sayisal
+30,"Şarj istasyonlarında 2027 hedefi nedir?","Tesis sayısını 30'a çıkarmak; tesisler arası mesafenin 60 km'yi aşmaması.","elektrikli_arac_sarj_istasyonlari.txt",sayisal
+31,"Elektrikli otomobilimi seyahatte nerede doldurabilirim?","Otoyol dinlenme tesislerindeki DC hızlı şarj istasyonlarında (2026'da 12 tesis).","elektrikli_arac_sarj_istasyonlari.txt",es_anlamli
+32,"Otoyolda çekici hizmeti ücretsiz mi?","İlk 25 kilometre ücretsizdir; sonrası tarifeye göre ücretlendirilir.","surucu_sss.txt",sayisal
+33,"Kaçış rampasını kullanan sürücüye masraf çıkarılır mı?","Hayır; çekme ve çakıl düzeltme masrafını kurum karşılar, sürücü 188'i aramalıdır.","surucu_sss.txt",tekil
+34,"Freni tutmayan kamyon nereye sığınabilir?","Uzun inişlerdeki çakıl dolgulu kaçış rampasına; kullanım sonrası 188'e bildirilir.","surucu_sss.txt",es_anlamli
+35,"Ağır taşıtlar için kış lastiği hangi tarihler arasında zorunludur?","1 Aralık - 1 Nisan arasında.","surucu_sss.txt",tekil
+36,"Yoldaki büyük çukuru nereye bildirebilirim, ne kadar sürede ekip gelir?","188 Yol Destek Hattı veya mobil uygulama; öncelikli bildirimlerde hedef 3 saat.","surucu_sss.txt",sayisal
+37,"Dinlenme tesisinde tuvaletten ücret alınırsa ne olur?","Sözleşme ihlalidir; ilk tespitte 50.000 TL ceza uygulanır.","dinlenme_tesisleri_isletme_esaslari.txt",sayisal
+38,"Denetimde 70 puanın altında kalan tesise ne yapılır?","Yazılı uyarı verilir, 60 gün içinde yeniden denetlenir; üst üste iki kez altında kalırsa fesih sürecine alınır; 50 altı tek denetimde fesih nedenidir.","dinlenme_tesisleri_isletme_esaslari.txt",tekil
+39,"Tesis fiyatları emsal fiyatların en fazla yüzde kaç üzerinde olabilir?","Yüzde 10; aykırılıkta kalem başına 10.000 TL yaptırım.","dinlenme_tesisleri_isletme_esaslari.txt",sayisal
+40,"Dinlenme tesisinde ağır taşıtlar için asgari park kapasitesi nedir?","En az 15 tır kapasiteli ayrı park sahası.","dinlenme_tesisleri_isletme_esaslari.txt",sayisal
+41,"Hangi tünellerde mekanik havalandırma zorunludur?","500 metreden uzun tünellerde (B ve C kategorisi); jet fanlar CO sensörüyle çalışır.","tunel_guvenlik_yonergesi.docx",tekil
+42,"Tünelde CO değeri kaç ppm'e ulaşınca trafik kapatılır?","100 ppm'de kapatılır; 70 ppm'de havalandırma tam kapasiteye çıkar.","tunel_guvenlik_yonergesi.docx",sayisal
+43,"C kategorisi tünellerde kaçış bağlantısı aralığı nedir?","Her 300 metrede bir kaçış bağlantısı veya yaya kaçış galerisi.","tunel_guvenlik_yonergesi.docx",sayisal
+44,"Tehlikeli madde taşıyan araçlar hangi tünelleri kullanamaz?","C kategorisi (1.500 m'den uzun) tünelleri; alternatif güzergaha yönlendirilirler.","tunel_guvenlik_yonergesi.docx",tekil
+45,"Ağda toplam kaç tünel var, kategorilere dağılımı nedir?","23 tünel: 14 A, 6 B, 3 C kategorisi.","tunel_guvenlik_yonergesi.docx",sayisal
+46,"Köprülerde ana muayene hangi sıklıkla yapılır?","2 yılda bir; rutin muayene 6 ayda bir, özel muayene olay sonrası 48 saat içinde.","kopru_viyaduk_denetim_proseduru.docx",sayisal
+47,"Durum skoru 4 verilen köprüye ne yapılır?","30 gün içinde yük sınırlaması kararı alınır ve yapı Köprü Yük Sınırı Raporuna eklenir.","kopru_viyaduk_denetim_proseduru.docx",tekil
+48,"Sualtı ayaklı köprülerde dalgıçlı muayene periyodu nedir?","4 yılda bir zorunludur.","kopru_viyaduk_denetim_proseduru.docx",sayisal
+49,"Öngerilmeli kirişte tel kopması tespit edilirse ne yapılır?","Acil durum kabul edilir ve aynı gün genel müdürlüğe raporlanır.","kopru_viyaduk_denetim_proseduru.docx",tekil
+50,"Asfalt serimi hangi karışım sıcaklığının altında yapılamaz?","135 derecenin altında serim yapılmaz; sıkıştırma 80 derecenin üzerinde tamamlanır.","asfalt_kaplama_teknik_sartnamesi.docx",sayisal
+51,"Asfaltta sıkışma oranı kabul kriteri nedir?","Marshall yoğunluğunun en az yüzde 97'si; her 1.000 tonda en az bir karot.","asfalt_kaplama_teknik_sartnamesi.docx",sayisal
+52,"Aşınma tabakasında en fazla yüzde kaç RAP kullanılabilir?","Yüzde 10; binder tabakasında yüzde 25.","asfalt_kaplama_teknik_sartnamesi.docx",sayisal
+53,"Otoyollarda IRI üst sınırı nedir?","1,5 m/km; yüzey düzgünlüğünde 3 m mastarla 4 mm'yi aşan sapma kabul edilmez.","asfalt_kaplama_teknik_sartnamesi.docx",sayisal
+54,"Trafiğe açık alanda çalışanların giysi standardı nedir?","EN ISO 20471 Sınıf 3 reflektif giysi; gece ek kişisel uyarı lambası.","is_sagligi_guvenligi_talimati.docx",tekil
+55,"TMA nedir ve ne zaman zorunludur?","Çarpışma yastıklı araçtır; şerit kapatma gerektiren çalışmalarda konvoyun en arkasında zorunludur.","is_sagligi_guvenligi_talimati.docx",tekil
+56,"Hızlı kesimlerde koniler kaç metre aralıkla dizilir?","90 km/s ve üzeri kesimlerde 12 metre, şehir içinde 6 metre.","is_sagligi_guvenligi_talimati.docx",sayisal
+57,"Çalışma alanı uyarı levhaları kaç metre önceden başlar?","En az 500 metre önce.","is_sagligi_guvenligi_talimati.docx",sayisal
+58,"Hangi araçlar özel yük taşıma iznine tabidir?","44 tonu, 4,00 m yüksekliği, 2,55 m genişliği veya 16,50 m uzunluğu aşan taşımalar.","agir_yuk_tasima_izni_yonergesi.docx",sayisal
+59,"Özel yük izni başvurusu kaç gün önce yapılır?","Taşıma tarihinden en az 10 iş günü önce portal üzerinden.","agir_yuk_tasima_izni_yonergesi.docx",sayisal
+60,"Eskort aracı hangi taşımalarda zorunludur?","Genişliği 3,50 m'yi veya uzunluğu 30 m'yi aşan taşımalarda önde ve arkada birer eskort.","agir_yuk_tasima_izni_yonergesi.docx",tekil
+61,"100 tonu aşan taşımalar hangi saatlerde yapılır?","Gece 24.00 - 05.00 arasında, trafik yönetim merkezi gözetiminde; köprülerden tek başına 30 km/s ile.","agir_yuk_tasima_izni_yonergesi.docx",tekil
+62,"Yerleşim yerlerinde gündüz ve gece gürültü sınırları nedir?","Gündüz 65 dBA, gece 55 dBA; aşımda gürültü bariyeri projelendirilir.","cevre_gurultu_yonetimi_talimati.docx",sayisal
+63,"Kazınan asfalt (RAP) için hedef nedir?","Yüzde 100 geri kazanım; düzenli depolamaya gönderilemez.","cevre_gurultu_yonetimi_talimati.docx",tekil
+64,"Refüjlerde kimyasal ot ilacı kullanılabilir mi?","Hayır, yasaktır; vejetasyon kontrolü mekanik biçmeyle yapılır.","cevre_gurultu_yonetimi_talimati.docx",tekil
+65,"İçme suyu havzalarında kar mücadelesi nasıl yapılır?","Katı tuz yerine solüsyon kullanımı zorunludur.","cevre_gurultu_yonetimi_talimati.docx;kar_mucadelesi_sezon_plani.pdf",coklu_dokuman
+66,"Kesin teminat oranı nedir ve nasıl iade edilir?","Sözleşme bedelinin yüzde 6'sı; yarısı geçici kabulde, kalanı kesin kabulde iade edilir.","yuklenici_hakedis_proseduru.docx",sayisal
+67,"Gecikme cezası oranı nedir?","Gecikilen her takvim günü için sözleşme bedelinin on binde 2'si; toplam yüzde 10'u aşarsa fesih.","yuklenici_hakedis_proseduru.docx",sayisal
+68,"Onaylanan hakediş ne kadar sürede ödenir?","Onay tarihinden itibaren 30 gün içinde.","yuklenici_hakedis_proseduru.docx",sayisal
+69,"Hakedişlerden yapılan ek kesinti nedir?","Yüzde 3 kesinti yapılır ve kesin kabule kadar bloke edilir.","yuklenici_hakedis_proseduru.docx",sayisal
+70,"Otomobiller için otoyol azami hız sınırı kaçtır?","140 km/s; bölünmüş yolda 110, iki yönlü yolda 90.","hiz_limitleri_genelgesi.pdf",sayisal
+71,"Tehlikeli madde taşıyan araçların otoyol hız sınırı nedir?","70 km/s.","hiz_limitleri_genelgesi.pdf",sayisal
+72,"DMS'de gösterilen hız ile levhadaki hız çelişirse hangisi geçerlidir?","DMS'de gösterilen limit geçerlidir ve denetimde esas alınır.","hiz_limitleri_genelgesi.pdf",tekil
+73,"Çalışma bölgelerinde otoyol hız limiti kaça düşürülür?","80 km/s'ye; diğer yollarda 50 km/s'ye.","hiz_limitleri_genelgesi.pdf",sayisal
+74,"Ortalama hız koridoru verileri ne kadar sürede anonimleştirilir?","30 gün içinde.","hiz_limitleri_genelgesi.pdf",sayisal
+75,"Kar nöbeti vardiyaları nasıl düzenlenir?","24 saat esasına göre 8 saatlik vardiyalar; her vardiyada bir nöbetçi şef.","kar_mucadelesi_sezon_plani.pdf",sayisal
+76,"Birinci öncelikli güzergahlarda küreme aracı geçiş aralığı en fazla nedir?","2 saat; her nokta en geç 2 saatte bir araç görür.","kar_mucadelesi_sezon_plani.pdf",sayisal
+77,"5. Bölgenin sezon başı asgari tuz stoku kaç tondur?","22.000 ton.","kar_mucadelesi_sezon_plani.pdf",sayisal
+78,"Kar konvoyunda azami hız nedir?","40 km/s; ağır taşıtlar küreme aracı arkasında konvoyla geçirilir.","kar_mucadelesi_sezon_plani.pdf",sayisal
+79,"Seviye 1 heyelanda hedef müdahale süresi nedir?","Bildirimden itibaren 45 dakika.","heyelan_afet_mudahale_plani.pdf",sayisal
+80,"Heyelan riski en yüksek kesimler hangileridir?","4. Bölgedeki D-410 Fındıklı Sahil Yolu ve 5. Bölgedeki D-575 Karlıdağ - Sınırtepe.","heyelan_afet_mudahale_plani.pdf",tekil
+81,"Erken uyarı istasyonları hangi yağış eşiğinde teyakkuz verir?","24 saatte 80 milimetreyi aşan yağışta.","heyelan_afet_mudahale_plani.pdf",sayisal
+82,"Yola toprak kayması gelirse ilk kim müdahale eder?","Seviye 1'de bölge ekipleri 45 dakika hedefiyle; büyük olaylarda iş makinesi takviyesi ve kriz masası.","heyelan_afet_mudahale_plani.pdf",es_anlamli
+83,"Otoyolda şerit çizgisi genişliği kaç santimetredir?","15 cm; devlet yollarında 12 cm.","yol_cizgi_isaretleme_standartlari.pdf",sayisal
+84,"Termoplastik çizgi uygulama kalınlığı nedir?","3 milimetre; boyada yaş film 400 mikron.","yol_cizgi_isaretleme_standartlari.pdf",sayisal
+85,"Yeni beyaz çizgide retroreflektivite alt sınırı nedir?","En az 200 mcd/m²/lx; sarıda 150; 100'ün altına düşen kesim yenileme programına alınır.","yol_cizgi_isaretleme_standartlari.pdf",sayisal
+86,"Çizgi kabul ölçümleri ne zaman yapılır?","Uygulamadan 15-30 gün arasında; okumaların yüzde 90'ı alt sınırın üzerinde olmalıdır.","yol_cizgi_isaretleme_standartlari.pdf",tekil
+87,"Taşlıdere Köprüsünün yük sınırı kaç tondur?","16 ton; aşan araçlar D-575 alternatif geçidine yönlendirilir.","kopru_yuk_siniri_raporu_2026.pdf",sayisal
+88,"Eski Değirmen Köprüsünün sınırı nedir ve ne zaman kalkacak?","24 ton; ana kiriş güçlendirme ihalesi 2026 programında, onarım ve yük testi sonrası kalkacak.","kopru_yuk_siniri_raporu_2026.pdf",sayisal
+89,"Fındıklı Viyadüğünde sınır kaç ton ve hangi onarım planlı?","38 ton; 2026 yazında gece kapatmalarıyla mesnet değişimi.","kopru_yuk_siniri_raporu_2026.pdf",sayisal
+90,"Marshall stabilite deneyi kaç iş günü sürer ve ücreti nedir?","4 iş günü, 5.600 TL (2026).","laboratuvar_deney_katalogu.pdf",sayisal
+91,"Asfalt karot numunesi laboratuvara en geç ne zaman ulaşmalıdır?","Alımdan itibaren 48 saat içinde.","laboratuvar_deney_katalogu.pdf",sayisal
+92,"Merkez laboratuvarının akreditasyonu nedir?","TS EN ISO/IEC 17025.","laboratuvar_deney_katalogu.pdf",tekil
+93,"2025'te en yüksek YOGT hangi kesimde ölçüldü?","O-7 Kuzey Otoyolu Batıova - Liman Kavşağı kesiminde 74.900 araç/gün.","trafik_hacim_2026.xlsx",sayisal
+94,"O-48 Doğu Otoyolunda ağır taşıt oranı yüzde kaçtır?","Yüzde 31 — ağdaki en yüksek oran.","trafik_hacim_2026.xlsx",sayisal
+95,"D-330 Bozkır Geçidinin YOGT değeri nedir?","15.800 araç/gün (2025).","trafik_hacim_2026.xlsx",sayisal
+96,"5. Bölgenin kar ve buz mücadelesi bütçesi kaç milyon TL?","112 milyon TL — bölgeler içinde en yüksek.","bakim_butcesi_2026.xlsx",sayisal
+97,"Şev ve heyelan islahına en çok bütçe ayrılan bölge hangisi?","5. Bölge, 67 milyon TL (ikinci 4. Bölge, 46 milyon).","bakim_butcesi_2026.xlsx",sayisal
+98,"1. Bölgenin asfalt yama ve üstyapı onarım bütçesi nedir?","185 milyon TL.","bakim_butcesi_2026.xlsx",sayisal
+99,"Rotatif kar makinesi kaç adettir, nerede konuşludur ve neden?","6 adet, tümü 5. Bölgede; yönerge gereği yalnızca dağlık kesim şefliklerinde konuşlandırılır.","arac_ekipman_envanteri.xlsx;yol_bakim_araclari.txt;kar_mucadelesi_sezon_plani.pdf",coklu_dokuman
+100,"5. Bölgede kaç kar küreme aracı var?","34 adet, ortalama model yılı 2021, faal oranı yüzde 97.","arac_ekipman_envanteri.xlsx",sayisal
+101,"TMA (çarpışma yastıklı araç) hangi bölgelerde kaçar adet var?","1. Bölge 6, 2. Bölge 4, 3. Bölge 5 adet.","arac_ekipman_envanteri.xlsx",sayisal
+102,"2025'te en çok kaza hangi kesimde oldu?","O-7 Kuzey Otoyolunda 412 kaza; en sık neden takip mesafesi ihlali.","kaza_istatistikleri_2025.xlsx",sayisal
+103,"O-48 Doğu Otoyolunda en sık kaza nedeni nedir?","Buzlanma.","kaza_istatistikleri_2025.xlsx",tekil
+104,"2025'te ölümlü kaza en çok hangi ayda oldu?","Ocak ayında 8 ölümlü kaza (Temmuz ve Aralık 7'şer).","kaza_istatistikleri_2025.xlsx",sayisal
+105,"3. Bölge Müdürlüğünün toplam personel sayısı kaçtır?","743 (96 mühendis, 158 tekniker, 371 operatör-şoför, 118 idari).","personel_dagilimi.xlsx",sayisal
+106,"Laboratuvar Müdürlüğünde kaç mühendis çalışıyor?","46 mühendis.","personel_dagilimi.xlsx",sayisal
+107,"20 tonluk bir aracın Taşlıdere Köprüsünden geçiş izni talebi nasıl değerlendirilir?","Güzergah kontrolü Köprü Yük Sınırı Raporuna göre yapılır; Taşlıdere'nin sınırı 16 ton olduğundan geçemez, D-575 alternatifine yönlendirilir veya statik doğrulama istenir.","agir_yuk_tasima_izni_yonergesi.docx;kopru_yuk_siniri_raporu_2026.pdf",coklu_dokuman
+108,"Çizgi ekibinin koruma aracı düzeni hangi kurala dayanır ve mesafe nedir?","Hareketli çalışmalarda koruma aracı çalışma aracını en fazla 150 metre geriden izler; kural İş Sağlığı ve Güvenliği Talimatındadır.","yol_cizgi_isaretleme_standartlari.pdf;is_sagligi_guvenligi_talimati.docx",coklu_dokuman
+109,"Asfalttaki RAP oranları hangi çevresel hedefle ilişkilidir?","Şartname binder'da yüzde 25, aşınmada yüzde 10 RAP'a izin verir; bu, çevre talimatındaki yüzde 100 geri kazanım hedefinin uygulamasıdır.","asfalt_kaplama_teknik_sartnamesi.docx;cevre_gurultu_yonetimi_talimati.docx",coklu_dokuman
+110,"Kar sezonu ile ağır taşıt kış lastiği zorunluluğu aynı dönem mi?","Hayır; kar mücadelesi sezonu 1 Kasım - 31 Mart, kış lastiği zorunluluğu 1 Aralık - 1 Nisan'dır.","kar_mucadelesi_sezon_plani.pdf;surucu_sss.txt",coklu_dokuman
+111,"Genel müdürün adı nedir?","Dokümanlarda yer almıyor — sistem bilmediğini söylemelidir.","",yok
+112,"Kurum personelinin maaş skalası nedir?","Dokümanlarda yer almıyor.","",yok
+113,"2027 yılı bakım bütçesi ne kadar?","Dokümanlarda yer almıyor (yalnızca 2026 bütçesi var).","",yok
+114,"Otoyol ağında kaç akaryakıt istasyonu var?","Dokümanlarda sayı yok (yalnızca tesislerde akaryakıt zorunluluğu geçer).","",yok
+115,"Kurum hangi yılda kuruldu?","Dokümanlarda yer almıyor.","",yok
+116,"Yemekhane kaçta açılıyor?","Dokümanlarda yer almıyor.","",yok
+117,"Şehirlerarası otobüs bilet fiyatları nedir?","Dokümanlarda yer almıyor.","",yok
+118,"Bir kilometre otoyol inşaatının maliyeti nedir?","Dokümanlarda yer almıyor.","",yok
+119,"Köprü denetimlerinde drone kullanılıyor mu?","Dokümanlarda yer almıyor.","",yok
+120,"Gelecek yıl işe alım yapılacak mı?","Dokümanlarda yer almıyor.","",yok
+121,"Ağda kaç sabit denetim istasyonu var ve nasıl çalışır?","9 sabit istasyon, tümü 24 saat; 60 ton kapasiteli platform kantar, dingil kantarı ve lazerli boyut ölçüm kapısı bulunur.","karayolu_denetim_istasyonlari.docx",sayisal
+122,"WIM nedir ve kaç sensör kuruludur?","Hareket halinde tartım sistemidir; 14 sensör vardır, yüzde 5'ten fazla aşım şüphesinde araç sabit istasyona yönlendirilir.","karayolu_denetim_istasyonlari.docx",sayisal
+123,"Kantar tartımında dingil yükü toleransı nedir?","Yüzde 5; ceza yalnızca kalibreli sabit kantar tartımına dayanır, WIM tek başına ceza gerekçesi olamaz.","karayolu_denetim_istasyonlari.docx",sayisal
+124,"Denetim istasyonuna girmeyen araca ne yapılır?","Plaka okuma kayıtlarıyla tespit edilir ve normal aşım cezasının 2 katı uygulanır.","karayolu_denetim_istasyonlari.docx",tekil
+125,"Kamyonlar seyir halindeyken nasıl tartılıyor?","WIM (hareket halinde tartım) sensörleriyle; bu veri ön elemedir, şüpheli araçlar sabit kantara yönlendirilir.","karayolu_denetim_istasyonlari.docx",es_anlamli
+126,"Otomatik olay algılamanın (AID) hedef süresi nedir?","2 dakika; her alarm trafik yönetim merkezi operatörünce doğrulanır.","akilli_ulasim_sistemleri_strateji.pdf",sayisal
+127,"AUS envanterinde kaç kamera ve kaç DMS panosu var?","340 sabit kamera ve 78 DMS panosu (ayrıca 52 ortalama hız koridoru, 96 algılayıcı).","akilli_ulasim_sistemleri_strateji.pdf",sayisal
+128,"C-ITS pilot uygulaması nerede yapılacak?","O-7 Kuzey Otoyolunda; kar aracı konumu ve kuyruk uyarıları donanımlı araçlara yayınlanacak.","akilli_ulasim_sistemleri_strateji.pdf",tekil
+129,"Plaka okuma verileri ne kadar süre içinde anonimleştirilir?","30 gün içinde; kural hem Hız Limitleri Genelgesinde hem AUS Strateji Belgesinde yer alır.","akilli_ulasim_sistemleri_strateji.pdf;hiz_limitleri_genelgesi.pdf",coklu_dokuman
+130,"A tipi hizmet tesisinde asgari park kapasitesi nedir?","En az 100 otomobil ve 40 tır; B tipinde 40 otomobil ve 15 tır.","otoyol_hizmet_tesisleri_standartlari.txt",sayisal
+131,"B tipi tesisin asgari alanı kaç metrekaredir?","12.000 m² (A tipi 30.000 m²).","otoyol_hizmet_tesisleri_standartlari.txt",sayisal
+132,"İki hizmet tesisi arasındaki hedef mesafe nedir?","40 km'yi aşmaz; elektrikli araç şarjı olan tesislerde hedef aralık 60 km'dir.","otoyol_hizmet_tesisleri_standartlari.txt;surucu_sss.txt",coklu_dokuman

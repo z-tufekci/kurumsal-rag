@@ -1,0 +1,60 @@
+HGS VE SGS SİSTEMLERİ BİLGİ NOTU
+
+1. Genel Bakış
+
+Kurumumuz otoyol ve köprü geçişlerinde iki farklı elektronik ücret toplama
+sistemi işletmektedir: Hızlı Geçiş Sistemi (HGS) ve Serbest Geçiş Sistemi
+(SGS). Her iki sistem de araçların gişelerde durmadan geçiş yapmasını
+sağlar; ancak çalışma prensipleri ve kullanım alanları farklıdır.
+
+2. Hızlı Geçiş Sistemi (HGS)
+
+HGS, araç camına yapıştırılan pasif RFID etiketi ile çalışır. Araç gişe
+bölgesine yaklaştığında anten etiketi okur, geçiş ücreti sürücünün önceden
+bakiye yüklediği hesaptan düşülür. HGS etiketi PTT şubelerinden ve anlaşmalı
+bankalardan temin edilebilir. Etiket ücreti 2026 yılı için 60 TL'dir ve ilk
+yüklemede en az 100 TL bakiye şartı aranır.
+
+HGS'de geçiş anında bakiye yetersizse sistem aracı durdurmaz; sürücüye 15
+gün içinde bakiyesini tamamlaması için süre tanınır. Bu süre içinde ödeme
+yapılmazsa geçiş ücretinin 4 katı tutarında ceza uygulanır.
+
+3. Serbest Geçiş Sistemi (SGS)
+
+SGS, plaka tanıma teknolojisine dayanır. Gişe bölgesindeki kameralar aracın
+plakasını okur ve geçiş kaydı otomatik oluşturulur. Araçta herhangi bir
+etiket veya cihaz bulunması gerekmez. SGS özellikle kurumsal filo araçları
+ve kamu araçları için tercih edilir; faturalandırma ay sonunda toplu olarak
+yapılır.
+
+SGS'de plaka okunamazsa (kirli plaka, hasarlı plaka, hava koşulları) geçiş
+kaydı elle inceleme kuyruğuna düşer ve operatör tarafından doğrulanır.
+
+4. HGS ile SGS Arasındaki Temel Farklar
+
+- HGS etiket (RFID) ile, SGS plaka tanıma (kamera) ile çalışır.
+- HGS ön ödemelidir (bakiye yüklenir); SGS son ödemelidir (ay sonu fatura).
+- HGS bireysel kullanıcılar içindir; SGS kurumsal filolar ve kamu araçları
+  için tasarlanmıştır.
+- HGS'de etiket maliyeti vardır; SGS'de araca takılan bir donanım yoktur.
+- Yoğun trafikte HGS okuma başarısı yüzde 99,6; SGS plaka tanıma başarısı
+  yüzde 97,2 olarak ölçülmüştür.
+
+5. Sık Karşılaşılan Sorunlar
+
+Etiket okunmama: HGS etiketi metalik cam filmi olan araçlarda okunmayabilir.
+Bu durumda etiketin plaka üzerine monte edilen dış tip etiketi ile
+değiştirilmesi gerekir.
+
+Çift ücretlendirme: Aynı geçişte hem HGS hem SGS kaydı oluşursa mükerrer
+ücret iade sürecine girilir; iade 10 iş günü içinde tamamlanır.
+
+İtiraz süreci: Sürücüler geçiş kayıtlarına ve cezalara, geçiş tarihinden
+itibaren 30 gün içinde kurumun çevrim içi portalından itiraz edebilir.
+İtirazlar 7 iş günü içinde sonuçlandırılır.
+
+6. İletişim
+
+Sistemlerle ilgili teknik arıza bildirimleri Bilgi Teknolojileri birimine,
+ücretlendirme ve iade talepleri Mali İşler birimine iletilir. Acil durumlar
+için 7/24 çağrı merkezi hizmet vermektedir.

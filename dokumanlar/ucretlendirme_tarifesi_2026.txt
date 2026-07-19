@@ -1,0 +1,53 @@
+2026 YILI OTOYOL VE KÖPRÜ GEÇİŞ ÜCRET TARİFESİ
+
+1. Araç Sınıfları
+
+Ücretlendirme, aracın dingil sayısı ve yüksekliğine göre belirlenen araç
+sınıfına dayanır:
+
+- 1. Sınıf: Otomobil, minibüs (2 dingil, yükseklik < 2,20 m)
+- 2. Sınıf: Kamyonet, midibüs (2 dingil, yükseklik 2,20 - 3,20 m)
+- 3. Sınıf: Otobüs, 2 dingilli kamyon (yükseklik > 3,20 m)
+- 4. Sınıf: 3 dingilli araçlar
+- 5. Sınıf: 4 ve üzeri dingilli araçlar ile römorklu araçlar
+- 6. Sınıf: Motosiklet
+
+2. Otoyol Kilometre Ücretleri
+
+2026 yılında 1. sınıf araçlar için otoyol geçiş ücreti kilometre başına
+1,45 TL olarak uygulanır. Diğer sınıflar için katsayılar:
+
+- 1. Sınıf: 1,00 (1,45 TL/km)
+- 2. Sınıf: 1,60 (2,32 TL/km)
+- 3. Sınıf: 2,50 (3,63 TL/km)
+- 4. Sınıf: 3,80 (5,51 TL/km)
+- 5. Sınıf: 4,60 (6,67 TL/km)
+- 6. Sınıf: 0,60 (0,87 TL/km)
+
+3. Köprü Geçiş Ücretleri
+
+Boğaz köprüleri sabit ücretlidir; 2026 tarifesi 1. sınıf araçlar için tek
+yön 42 TL'dir. Köprü ücretlerinde sınıf katsayıları otoyol ile aynıdır.
+Motosikletlerden köprü geçişlerinde ücret alınmaz.
+
+4. İndirim ve Muafiyetler
+
+- Resmi kurum araçları ve SGS kapsamındaki kamu filoları ücrete tabidir;
+  muafiyet yalnızca acil yardım, itfaiye ve ambulans araçlarına tanınır.
+- Gece 01.00 - 05.00 arasındaki otoyol geçişlerinde yüzde 20 gece indirimi
+  uygulanır. İndirim köprü geçişlerinde geçerli değildir.
+- Aynı takvim ayında 40'tan fazla geçiş yapan ticari araçlara, 40'ıncı
+  geçişten sonraki geçişler için yüzde 15 sık kullanım indirimi uygulanır.
+
+5. Ödeme Sistemleri
+
+Tüm geçişler HGS veya SGS ile ücretlendirilir; nakit gişe uygulaması
+kaldırılmıştır. Sistemlerin çalışma esasları için HGS ve SGS Sistemleri
+Bilgi Notuna bakınız. Bakiyesiz geçiş ve ceza itiraz süreçleri de aynı
+notta düzenlenmiştir.
+
+6. Tarife Güncelleme
+
+Tarife her yıl ocak ayında yeniden değerleme oranına göre güncellenir ve
+kurum internet sitesinde yayımlanır. Yıl içinde olağanüstü güncelleme
+yönetim kurulu kararı gerektirir.

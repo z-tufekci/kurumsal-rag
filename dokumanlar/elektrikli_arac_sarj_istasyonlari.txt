@@ -1,0 +1,38 @@
+DİNLENME TESİSLERİNDE ELEKTRİKLİ ARAÇ ŞARJ ALTYAPISI BİLGİ NOTU
+
+1. Mevcut Durum
+
+2026 yılı itibarıyla otoyol ağındaki 12 dinlenme tesisinde DC hızlı şarj
+istasyonu hizmet vermektedir. Her istasyonda en az 4 şarj noktası bulunur;
+her nokta 180 kW azami güç sunar ve CCS2 soket standardını destekler.
+İki tesiste (Doğupark ve Marmara Batı) ek olarak 350 kW ultra hızlı şarj
+ünitesi pilot olarak işletilmektedir.
+
+2. Ücretlendirme
+
+DC hızlı şarj ücreti 2026 tarifesinde kilovatsaat başına 8,90 TL'dir.
+350 kW ultra hızlı ünitelerde kilovatsaat ücreti 10,50 TL uygulanır.
+Şarj tamamlandıktan sonra 30 dakikadan uzun süre soketi işgal eden
+araçlardan dakika başına 2 TL işgal bedeli alınır.
+
+3. Genişleme Planı
+
+2027 sonuna kadar şarj istasyonu bulunan tesis sayısının 30'a çıkarılması
+hedeflenmektedir. Önceliklendirme, tesisler arasındaki mesafenin 60
+kilometreyi aşmaması ilkesine göre yapılır. Yeni ihalelerde her istasyon
+için en az bir engelli erişimine uygun şarj noktası şartı aranır.
+
+4. İşletme ve Arıza
+
+Şarj istasyonları yüklenici firma tarafından işletilir; kurum altyapı ve
+yer tahsisi sağlar. Arıza bildirimleri istasyon üzerindeki QR kod veya
+188 Yol Destek Hattı üzerinden yapılır. Yüklenicinin arızaya uzaktan
+müdahale süresi azami 1 saat, yerinde müdahale süresi azami 24 saattir.
+Bir tesiste tüm şarj noktalarının aynı anda devre dışı kalması halinde
+en geç 6 saat içinde seyyar şarj ünitesi görevlendirilir.
+
+5. Elektrik Altyapısı
+
+Her istasyon için ayrı trafo tesis edilir; bağlantı gücü tesise göre
+630 kVA ile 1.250 kVA arasında değişir. İstasyon sahalarında yangın
+söndürme tüpü ve acil durdurma butonu bulundurulması zorunludur.

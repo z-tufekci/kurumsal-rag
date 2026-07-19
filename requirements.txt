@@ -1,0 +1,5 @@
+numpy
+requests
+pypdfium2
+python-docx
+openpyxl

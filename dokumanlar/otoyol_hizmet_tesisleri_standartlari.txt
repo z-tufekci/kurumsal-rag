@@ -1,0 +1,58 @@
+OTOYOL HİZMET TESİSLERİ PLANLAMA VE TASARIM STANDARTLARI
+
+1. Tesis Tipleri
+
+Otoyol hizmet tesisleri iki tipte planlanır:
+
+A Tipi (tam donanımlı tesis): Akaryakıt istasyonu, restoran, market,
+en az 100 otomobil ve 40 tır kapasiteli park sahası bulunur. Mescit,
+bebek bakım odası ve çocuk oyun alanı A tipi tesislerde zorunludur.
+Asgari tesis alanı 30.000 metrekaredir.
+
+B Tipi (temel hizmet tesisi): Akaryakıt istasyonu, market, en az 40
+otomobil ve 15 tır kapasiteli park sahası bulunur. Asgari tesis alanı
+12.000 metrekaredir.
+
+Her iki tipte de ücretsiz tuvalet, engelli erişimine uygun tuvalet ve
+içme suyu çeşmesi zorunludur (işletme yükümlülükleri için Dinlenme
+Tesisleri İşletme ve Denetim Esaslarına bakınız).
+
+2. Yerleşim ve Mesafe
+
+Ardışık iki hizmet tesisi arasındaki mesafe hedef olarak 40 kilometreyi
+aşmaz. Elektrikli araç şarj istasyonu bulunan tesisler için hedef aralık
+60 kilometredir. Aynı kesimde karşılıklı yönlerde tesis planlanırken iki
+yönün ihtiyacı ayrı ayrı değerlendirilir; otoyolun tek tarafına yapılan
+tesise karşı yönden erişim köprülü bağlantıyla sağlanabilir.
+
+Yeni tesis yeri seçiminde en az 1.500 metre uzunluğunda düz ve eğimi
+yüzde 2'yi aşmayan kesim aranır; hızlanma ve yavaşlama şeritleri otoyol
+standardında projelendirilir.
+
+3. Altyapı Gereklilikleri
+
+Şebeke bağlantısı olmayan tesislerde atık su, tesise ait paket arıtma
+ünitesinde arıtılmadan alıcı ortama verilemez; arıtma çıkış suyu analizi
+üç ayda bir yaptırılır (çevresel yükümlülükler için Çevre ve Gürültü
+Yönetimi Talimatına bakınız). A tipi tesislerde yangın hidrant hattı ve
+en az 200 ton kapasiteli yangın suyu deposu zorunludur.
+
+4. Ağır Taşıt Alanları
+
+Tır park sahaları, tesis giriş-çıkış trafiğini kesmeyecek şekilde ayrı
+düzenlenir. A tipi tesislerde şoför dinlenme salonu ve duş zorunludur.
+Park sahasında en az iki soğutmalı araç için elektrik bağlantı noktası
+(frigo prizi) bulunur.
+
+5. Elektrikli Araç Şarj Alanı
+
+Yeni yapılacak tüm A tipi tesislerde en az 4 DC hızlı şarj noktası için
+altyapı (boru güzergahı ve trafo yeri) projede ayrılır. Mevcut şarj
+ağının kapsamı ve ücretleri için Elektrikli Araç Şarj Altyapısı Bilgi
+Notuna bakınız.
+
+6. İmar ve Devir
+
+Tesisler yap-işlet-devret modelinde azami 15 yıl işletme süresiyle ihale
+edilir. Sözleşme bitiminde tüm yapılar bakımlı ve çalışır durumda kuruma
+devredilir; devir öncesi son 6 ayda yapı denetim raporu hazırlanır.

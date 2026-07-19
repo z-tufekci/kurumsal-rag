@@ -1,0 +1,63 @@
+YOL BAKIM VE KAR MÜCADELESİ EKİPMANLARI EL KİTABI
+
+1. Giriş
+
+Bu el kitabı, kurumumuzun sorumluluğundaki karayolu ağında kullanılan bakım
+ve kar mücadelesi ekipmanlarının envanterini, kullanım esaslarını ve bakım
+periyotlarını özetler.
+
+2. Kar Mücadelesi Ekipmanları
+
+Kış sezonunda (1 Kasım - 31 Mart) aktif olarak kullanılan ekipmanlar:
+
+Kar küreme aracı: Kamyon şasisine monte edilen çelik bıçaklı küreme
+ekipmanıdır. Her bölge şefliğinde en az 4 adet bulundurulur. Bıçak
+yüksekliği yol yüzeyinden 2 santimetre olacak şekilde ayarlanır; asfalt
+yüzeye temas eden bıçak hem yolu hem ekipmanı yıpratır.
+
+Tuzlama ve solüsyon aracı: Yol yüzeyine katı tuz veya tuz solüsyonu
+püskürtür. Solüsyon kullanımı, katı tuza göre yüzde 30 daha az malzeme ile
+aynı buzlanma önleme etkisini sağlar. Köprü ve viyadük yüzeylerinde
+buzlanma daha erken başladığı için bu kesimlere öncelik verilir.
+
+Rotatif kar makinesi: Yoğun kar yağışında şerit açmak için kullanılan,
+karı savurarak yol dışına atan özel ekipmandır. Yalnızca dağlık kesim
+şefliklerinde konuşlandırılır ve operatör sertifikası zorunludur.
+
+3. Rutin Yol Bakım Araçları
+
+Greyder: Stabilize yolların yüzey düzeltmesinde ve banket tesviyesinde
+kullanılır. Her bölge müdürlüğünde en az 2 adet bulunur.
+
+Asfalt yama ekibi araçları: Sathi kaplama onarımı için asfalt kazıma
+makinesi, silindir ve termoplastik yama aracından oluşur. Yama çalışmaları
+yol yüzey sıcaklığının 10 derecenin üzerinde olduğu aylarda yapılır.
+
+Çim biçme ve vejetasyon kontrol aracı: Refüj ve şevlerdeki bitki örtüsünün
+kontrolünde kullanılır; görüş mesafesini kapatan vejetasyon trafik
+güvenliği açısından öncelikli olarak temizlenir.
+
+4. Bakım Periyotları
+
+Tüm ekipmanlar için geçerli bakım takvimi:
+
+- Günlük kontrol: Yağ seviyesi, hidrolik hortumlar, bıçak/uç aşınması
+- 250 saatte bir: Motor yağı ve filtre değişimi
+- 1000 saatte bir: Hidrolik sistem bakımı, şanzıman kontrolü
+- Sezon sonu: Kar mücadelesi ekipmanlarında tam revizyon ve paslanma koruması
+
+Bakımı geciken ekipman sahaya çıkarılamaz; bakım kayıtları ekipman takip
+sistemine işlenir.
+
+5. Operatör Yetkilendirme
+
+Kar küreme aracı ve greyder için G sınıfı ehliyet ve kurum içi operatör
+eğitimi zorunludur. Rotatif kar makinesi için ek olarak üretici firmanın
+sertifika programının tamamlanması gerekir. Yetkisiz personelin ekipman
+kullanması disiplin yönetmeliği kapsamında değerlendirilir.
+
+6. Arıza Bildirimi
+
+Saha ekipleri arızaları ekipman takip sistemi üzerinden bildirir. Kış
+sezonunda kar mücadelesi ekipmanlarının arıza giderme önceliği en üst
+seviyededir; yedek parça stoku bölge depolarında sezon öncesi tamamlanır.

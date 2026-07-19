@@ -1,0 +1,54 @@
+SİNYALİZASYON VE AYDINLATMA BAKIM TALİMATI
+
+1. Kapsam
+
+Bu talimat, kurum sorumluluğundaki karayolu ağında bulunan kavşak
+sinyalizasyon sistemleri, değişken mesaj işaretleri (DMS) ve yol aydınlatma
+tesislerinin bakım ve arıza giderme esaslarını düzenler.
+
+2. Sinyalizasyon Sistemleri
+
+Tüm yeni kavşak sinyalizasyonlarında LED'li sinyal verici kullanılır.
+LED modüllerin nominal ömrü 50.000 saattir; ömrünü dolduran modüller
+arıza beklenmeden planlı bakımda değiştirilir.
+
+Sinyal süre planları yılda en az bir kez trafik sayımlarıyla güncellenir.
+Trafik hacmi verileri Trafik Etüt birimince sağlanır. Gece 23.00 - 06.00
+arasında düşük hacimli kavşaklarda flaşlı sarı moda geçilir.
+
+3. Arıza Müdahale Süreleri
+
+Arıza bildirimleri 188 Yol Destek Hattı veya ekipman takip sistemi
+üzerinden alınır. Hedef müdahale süreleri:
+
+- Ana arter ve otoyol bağlantı kavşakları: en geç 2 saat
+- Tam sinyal sönümü (kavşak tamamen karanlık): en geç 2 saat, her koşulda
+- Diğer kavşaklar ve tekil lamba arızaları: en geç 24 saat
+- Değişken mesaj işaretleri: en geç 12 saat
+
+Tam sinyal sönümünde ekip ulaşana kadar trafik polisine bilgi verilir ve
+seyyar uyarı levhası kurulur.
+
+4. Değişken Mesaj İşaretleri (DMS)
+
+DMS panoları hız limiti düşürme, şerit kapatma ve hava uyarısı mesajları
+için kullanılır. Panolara mesaj girişi yalnızca bölge trafik yönetim
+merkezince yapılır; saha ekiplerinin mesaj değiştirme yetkisi yoktur.
+Kış sezonunda buzlanma uyarıları meteoroloji verisiyle otomatik tetiklenir.
+
+5. Yol Aydınlatması
+
+Otoyol kavşak kolları, tünel yaklaşımları ve ücret toplama alanları
+aydınlatılır. Ana gövdede sürekli aydınlatma yapılmaz. Aydınlatma
+direklerinde kullanılan armatürler en az IP66 koruma sınıfında olmalıdır.
+Armatür değişimlerinde enerji verimliliği için LED armatür kullanımı
+zorunludur.
+
+6. Periyodik Bakım
+
+- Ayda bir: görsel kontrol, lens temizliği (yoğun tozlu kesimlerde 15 günde bir)
+- 6 ayda bir: kablo ve topraklama ölçümü, buton ve dedektör testi
+- Yılda bir: direk korozyon kontrolü, süre planı revizyonu
+
+Bakım kayıtları ekipman takip sistemine işlenir; kayıtsız bakım yapılmamış
+sayılır.
