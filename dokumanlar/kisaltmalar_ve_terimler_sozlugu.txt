@@ -1,0 +1,97 @@
+KISALTMALAR VE TERİMLER SÖZLÜĞÜ
+
+Bu sözlük, kurum dokümanlarında geçen kısaltmaların açılımlarını ve karayolu
+mühendisliğine özgü terimlerin tanımlarını içerir. Kısaltma ve terimler,
+genel karayolları literatüründe de aynı anlamda kullanılır.
+
+1. Kısaltmalar
+
+AID: Otomatik Olay Algılama (Automatic Incident Detection). Kamera
+görüntüsünden duran araç, ters yön ve yaya tespiti yapan yazılım.
+
+AUS: Akıllı Ulaşım Sistemleri (İngilizce karşılığı ITS - Intelligent
+Transportation Systems).
+
+C-ITS: İşbirlikli Akıllı Ulaşım Sistemleri; araç ile yol altyapısı
+arasındaki doğrudan veri iletişimi.
+
+DGM: Durma Görüş Mesafesi. Sürücünün engeli görüp güvenle durabileceği
+asgari mesafe.
+
+DMS: Değişken Mesaj İşareti (Dynamic Message Sign). İçeriği trafik yönetim
+merkezinden değiştirilebilen elektronik yol panosu.
+
+HGS: Hızlı Geçiş Sistemi. RFID etiketle çalışan ön ödemeli elektronik
+ücret toplama sistemi.
+
+İHD: İşletme Hakkı Devri. Mevcut bir tesisin işletmesinin bedel karşılığı
+özel sektöre devredildiği KÖSOB modeli.
+
+İSG: İş Sağlığı ve Güvenliği.
+
+IRI: Uluslararası Düzgünsüzlük İndeksi (International Roughness Index).
+Yol yüzeyi konforunun m/km cinsinden ölçüsü.
+
+KGM: Karayolları Genel Müdürlüğü. Türkiye'de karayolu ağından sorumlu
+genel müdürlük; bu külliyattaki "kurum" benzer görev alanına sahiptir.
+
+KKD: Kişisel Koruyucu Donanım (baret, reflektif giysi, eldiven vb.).
+
+KÖSOB: Kamu-Özel Sektör Ortaklığı. Yapım ve işletmenin özel sektörle
+paylaşıldığı finansman-işletme modeli.
+
+RAP: Geri Kazanılmış Asfalt (Reclaimed Asphalt Pavement). Kazınan eski
+kaplamanın yeni karışımda yeniden kullanılan malzemesi.
+
+SGS: Serbest Geçiş Sistemi. Plaka tanıma ile çalışan son ödemeli
+elektronik ücret toplama sistemi.
+
+SMA: Taş Mastik Asfalt. Aşınma tabakasında kullanılan yüksek dayanımlı
+bitümlü karışım tipi.
+
+TMA: Çarpışma Yastıklı Araç (Truck Mounted Attenuator). Yol çalışmalarında
+konvoyun arkasında koruma sağlayan araç.
+
+WIM: Hareket Halinde Tartım (Weigh In Motion). Araçları seyir halindeyken
+tartan sensör sistemi.
+
+YİD: Yap-İşlet-Devret. Yüklenicinin yapım finansmanını üstlenip sözleşme
+süresince işleterek devrettiği KÖSOB modeli.
+
+YOGT: Yıllık Ortalama Günlük Trafik. Bir kesimden bir yılda geçen toplam
+araç sayısının 365'e bölümü (araç/gün).
+
+2. Terimler
+
+Sanat yapısı: Karayolu güzergahındaki köprü, viyadük, tünel, menfez ve
+istinat duvarı gibi mühendislik yapılarının ortak adı. Karayolu
+literatürünün en temel terimlerindendir; "köprü ve sanat yapıları
+bakımı" gibi başlıklarda üstyapı dışındaki tüm yapıları kapsar.
+
+Banket: Taşıt yolu platformunun şerit dışında kalan, emniyetli duruşa
+ayrılan bölümü (otoyolda emniyet şeridi).
+
+Dever: Kurplarda (virajlarda) merkezkaç etkisini dengelemek için yola
+verilen enine eğim.
+
+Gabari: Bir yapının altından güvenle geçilebilecek azami yükseklik/genişlik
+açıklığı.
+
+Hakediş: Yüklenicinin belirli dönemde yaptığı işin bedelinin hesaplanıp
+ödenmesine esas belge.
+
+Karot: Kaplamadan silindir şeklinde alınan deney numunesi.
+
+Kurp: Yolun yatay veya düşey eksendeki eğrisel kesimi (viraj).
+
+Menfez: Yol dolgusu altından su geçişini sağlayan küçük açıklıklı yapı.
+
+Refüj: Bölünmüş yollarda iki yönü ayıran orta şerit.
+
+Retroreflektivite: Yol çizgisinin araç farı ışığını sürücüye geri yansıtma
+gücü (mcd/m²/lx).
+
+Şev: Yarma veya dolgunun eğimli yan yüzeyi.
+
+Üstyapı: Yolun trafiğe hizmet eden kaplama katmanlarının tümü (aşınma,
+binder, temel tabakaları).

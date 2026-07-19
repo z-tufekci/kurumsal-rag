@@ -97,16 +97,17 @@ Deneme soruları (örnek dokümanlara göre):
 
 ## Test korpusu ve değerlendirme
 
-`dokumanlar/` klasöründe kurgusal bir karayolları kurumuna ait **33 dosyalık**
-test korpusu bulunur: 9 txt, 10 docx (biri envanter tablolu), 9 pdf (tablolu;
-uzun/çok sayfalı örnekler dahil), 5 xlsx (çok sayfalı).
+`dokumanlar/` klasöründe kurgusal bir karayolları kurumuna ait **34 dosyalık**
+test korpusu bulunur: 10 txt (kısaltma/terim sözlüğü dahil), 10 docx (biri
+envanter tablolu), 9 pdf (tablolu; uzun/çok sayfalı örnekler dahil),
+5 xlsx (çok sayfalı).
 Konular: ücretlendirme (HGS/SGS), bakım ve kar mücadelesi, tünel/köprü
 güvenliği, denetim istasyonları (WIM), akıllı ulaşım sistemleri, hizmet
 tesisleri, İSG, çevre, ihale-hakediş ve istatistik tabloları. Belgeler
 birbirine çapraz atıf yapar; sayılar dosyalar arasında tutarlıdır.
 Tüm içerik kurgusaldır.
 
-`degerlendirme/sorular.csv` bu korpus için hazırlanmış **147 soruluk** settir:
+`degerlendirme/sorular.csv` bu korpus için hazırlanmış **151 soruluk** settir:
 her satırda soru, beklenen cevap, kaynak dosya(lar) ve soru tipi
 (`tekil`, `sayisal`, `es_anlamli`, `coklu_dokuman`, `yok`) bulunur.
 `yok` tipi soruların cevabı korpusta bilerek YOKTUR — halüsinasyon testi.

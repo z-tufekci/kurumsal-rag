@@ -146,3 +146,7 @@ no,soru,beklenen_cevap,kaynak_dosyalar,tip
 145,"Elastomer mesnetler nasıl ve hangi koşullarda değiştirilir?","Servis ömrü ~30 yıl; tabliye hidrolik krikoyla gece askıya alınır (jacking), kaldırma 10 mm'yi aşamaz.","kopru_bakim_onarim_el_kitabi.docx",sayisal
 146,"Çelik köprülerde hangi boya sistemi uygulanır?","C5 korozyon sınıfına uygun üç katlı sistem; tam yenileme 15 yılda bir (örnek: Taşlıdere Köprüsü).","kopru_bakim_onarim_el_kitabi.docx",sayisal
 147,"Deprem izolatörlü köprüler hangileri ve izolatör muayenesi ne sıklıkta?","Liman Kavşağı Viyadüğü ve Ovacık Köprüsü; izolatörler 5 yılda bir özel muayeneden geçer.","kopru_bakim_onarim_el_kitabi.docx",sayisal
+148,"Sanat yapısı ne demektir?","Köprü, viyadük, tünel, menfez ve istinat duvarı gibi karayolu mühendislik yapılarının ortak adıdır.","kisaltmalar_ve_terimler_sozlugu.txt",tekil
+149,"YOGT ve WIM kısaltmaları ne anlama gelir?","YOGT: Yıllık Ortalama Günlük Trafik (araç/gün); WIM: Hareket Halinde Tartım.","kisaltmalar_ve_terimler_sozlugu.txt",tekil
+150,"Sanat yapılarının bakım ve onarımı hangi esaslara göre yürütülür?","Köprü ve Viyadük Bakım-Onarım El Kitabına göre; üstyapıdan ayrı program ve bütçe kalemiyle yürütülür.","kopru_bakim_onarim_el_kitabi.docx",es_anlamli
+151,"KÖSOB ve YİD kısaltmalarının açılımı nedir?","KÖSOB: Kamu-Özel Sektör Ortaklığı; YİD: Yap-İşlet-Devret — yüklenicinin yapımı finanse edip işleterek devrettiği model.","kisaltmalar_ve_terimler_sozlugu.txt;kosob_uygulama_esaslari.pdf",coklu_dokuman
