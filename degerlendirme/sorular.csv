@@ -131,3 +131,10 @@ no,soru,beklenen_cevap,kaynak_dosyalar,tip
 130,"A tipi hizmet tesisinde asgari park kapasitesi nedir?","En az 100 otomobil ve 40 tır; B tipinde 40 otomobil ve 15 tır.","otoyol_hizmet_tesisleri_standartlari.txt",sayisal
 131,"B tipi tesisin asgari alanı kaç metrekaredir?","12.000 m² (A tipi 30.000 m²).","otoyol_hizmet_tesisleri_standartlari.txt",sayisal
 132,"İki hizmet tesisi arasındaki hedef mesafe nedir?","40 km'yi aşmaz; elektrikli araç şarjı olan tesislerde hedef aralık 60 km'dir.","otoyol_hizmet_tesisleri_standartlari.txt;surucu_sss.txt",coklu_dokuman
+133,"140 km/s proje hızında asgari kurp yarıçapı kaç metredir?","800 metre (yüzde 8 dever ile).","geometrik_tasarim_kilavuzu.pdf",sayisal
+134,"Otoyollarda şerit ve emniyet şeridi genişlikleri nedir?","Şerit 3,65 m; sağ emniyet şeridi 3,00 m, sol (refüj tarafı) 1,00 m.","geometrik_tasarim_kilavuzu.pdf",sayisal
+135,"Kaçış rampasının yatak malzemesi ve derinliği nasıl olmalıdır?","8-40 mm elenmiş yuvarlak çakıl, en az 60 cm derinlik; çıkış eğimi yüzde 10-20, uzunluk en az 120 m.","geometrik_tasarim_kilavuzu.pdf",sayisal
+136,"Otoyol drenaj elemanları hangi yağış tekerrür süresine göre boyutlandırılır?","Hendek/kanalet 25 yıl, menfezler 50 yıl, köprüler 100 yıl tekerrürlü debiye göre.","geometrik_tasarim_kilavuzu.pdf",sayisal
+137,"Operatör sertifikasyon eğitimi kaç saattir ve içeriği nedir?","40 saat: 16 saat teorik, 24 saat uygulamalı; ön şart G sınıfı ehliyettir.","personel_egitim_yonetmeligi.docx",sayisal
+138,"Sertifikasyon sınavlarında geçme notu ve telafi hakkı nedir?","100 üzerinden 70; en fazla 2 telafi sınavı, sonrasında eğitim baştan alınır.","personel_egitim_yonetmeligi.docx",sayisal
+139,"Rotatif kar makinesi operatörü olmak için hangi şartlar gerekir?","G sınıfı ehliyet + 40 saatlik kurum içi operatör eğitimi + üretici sertifika programı; sertifika 3 yılda bir yenilenir.","personel_egitim_yonetmeligi.docx;yol_bakim_araclari.txt",coklu_dokuman
