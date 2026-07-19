@@ -51,7 +51,9 @@ def ara(soru: str, vektorler: np.ndarray, parcalar: list[dict],
 
 if __name__ == "__main__":
     vektorler, parcalar = indeks_yukle()
-    print(f"İndeks: {len(parcalar)} parça. Retrieval testi — çıkmak için boş satır.\n")
+    print(f"İndeks: {len(parcalar)} parça. Retrieval testi — çıkmak için boş satır.")
+    print("Getirilen her parçanın TAM metni gösterilir — Aşama 6'da LLM'e gidecek")
+    print("bağlam birebir budur; parça boyunun etkisini buradan gözlemleyin.\n")
     while True:
         soru = input("Soru: ").strip()
         if not soru:
@@ -59,6 +61,8 @@ if __name__ == "__main__":
         sonuclar = ara(soru, vektorler, parcalar)
         if not sonuclar:
             print(f"  Eşik ({ESIK}) üstünde sonuç yok — soru dokümanlarla alakasız olabilir.")
-        for s in sonuclar:
-            print(f"  {s['skor']:.3f}  {kaynak_etiketi(s):<40} {s['metin'][:70]}...")
+        for i, s in enumerate(sonuclar, start=1):
+            print(f"\n─── {i}. parça · skor {s['skor']:.3f} · {kaynak_etiketi(s)} "
+                  f"· {len(s['metin'])} karakter ───")
+            print(s["metin"])
         print()
