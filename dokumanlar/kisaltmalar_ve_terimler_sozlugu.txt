@@ -17,19 +17,31 @@ AUS: Akıllı Ulaşım Sistemleri (İngilizce karşılığı ITS - Intelligent
 Transportation Systems).
 
 BSK: Bitümlü Sıcak Karışım (asfalt). Aşınma ve binder tabakalarında
-kullanılan, plentte sıcak üretilip serilen kaplama malzemesi.
+kullanılan, plentte ısıtılan agrega ve bitümün karıştırılmasıyla üretilen
+yüksek kaliteli kaplama malzemesi.
+
+BY: Bölünmüş Yol. Trafik akışının fiziki bir engelle (refüj, bariyer)
+gidiş-geliş olarak ayrıldığı iki yönlü karayolu.
 
 C-ITS: İşbirlikli Akıllı Ulaşım Sistemleri; araç ile yol altyapısı
 arasındaki doğrudan veri iletişimi.
+
+CTB: Çimento Bağlayıcılı Temel. Yolun altyapısını güçlendirmek amacıyla
+çimento katkılı agrega ile oluşturulan sert temel tabakası.
 
 DGM: Durma Görüş Mesafesi. Sürücünün engeli görüp güvenle durabileceği
 asgari mesafe.
 
 DMS: Değişken Mesaj İşareti (Dynamic Message Sign). İçeriği trafik yönetim
-merkezinden değiştirilebilen elektronik yol panosu.
+merkezinden değiştirilebilen elektronik yol panosu. "Değişken Mesaj
+Sistemi" olarak da anılır; uluslararası literatürdeki karşılığı VMS'dir.
+
+DTS: Değişken Trafik İşareti. Hız limitlerini veya şerit yönlendirmelerini
+dinamik olarak değiştirebilen LED'li trafik tabelası.
 
 EDS: Elektronik Denetleme Sistemi. Sabit radar, ortalama hız koridoru ve
-plaka okuma altyapısıyla yapılan otomatik trafik denetimi.
+plaka okuma altyapısıyla; hız, kırmızı ışık ve şerit ihlallerini otomatik
+tespit eden denetim sistemi.
 
 HGS: Hızlı Geçiş Sistemi. RFID etiketle çalışan ön ödemeli elektronik
 ücret toplama sistemi.
@@ -50,6 +62,9 @@ genel müdürlük; bu külliyattaki "kurum" benzer görev alanına sahiptir.
 
 KKD: Kişisel Koruyucu Donanım (baret, reflektif giysi, eldiven vb.).
 
+KKNO: Kontrol Kesim Numarası. Karayolu ağının bakım ve takibini
+kolaylaştırmak için yolların bölündüğü alt kesim (segment) numarası.
+
 KÖİ: Kamu-Özel İşbirliği. Genel karayolları literatüründe kullanılan
 finansman-işletme modeli adı; bu külliyattaki KÖSOB aynı model ailesini
 ifade eder.
@@ -60,17 +75,38 @@ paylaşıldığı finansman-işletme modeli (genel literatürdeki adı KÖİ'dir
 KTK: Karayolları Trafik Kanunu (2918 sayılı). Trafik düzeninin ve trafik
 cezalarının yasal dayanağı.
 
+KTŞ: Karayolu Teknik Şartnamesi. Yol yapım, üstyapı ve sanat yapısı
+işlerinde uygulanan teknik şartname külliyatı; bu külliyattaki Asfalt
+Kaplama Teknik Şartnamesi benzeri belgelerin gerçek dünyadaki karşılığı.
+
 KTY: Karayolları Trafik Yönetmeliği. KTK'ya bağlı uygulama yönetmeliği;
 araçların ölçü ve ağırlık sınırları 128. maddesinde düzenlenir.
 
+MKM: Merkez Kontrol Merkezi. Akıllı ulaşım sistemlerinden gelen verilerin
+(kamera, sensör) toplandığı ve DMS'lerin yönetildiği ana merkez; bu
+külliyatta "trafik yönetim merkezi" olarak geçer.
+
 OGS: Otomatik Geçiş Sistemi. Araç içi aktarıcıyla çalışan eski nesil
 elektronik ücret toplama sistemi; yerini büyük ölçüde HGS'ye bırakmıştır.
+
+OY: Otoyol. Transit trafik için tasarlanmış, giriş-çıkışları kontrollü,
+kavşaksız ve yüksek hızlı yol; numaralandırmada "O" öneki kullanılır
+(örn. O-7).
+
+PMAT: Plent-Miks Alttemel. Asfalt serilmeden önce yolun taşıma gücünü
+artırmak için plentte suyla karıştırılıp serilen taş kırığı tabakası.
+
+PMT: Plent-Miks Temel. PMAT üzerine serilen, asfaltın hemen altındaki
+daha ince ve mukavemetli temel tabakası.
 
 RAP: Geri Kazanılmış Asfalt (Reclaimed Asphalt Pavement). Kazınan eski
 kaplamanın yeni karışımda yeniden kullanılan malzemesi.
 
 SGS: Serbest Geçiş Sistemi. Plaka tanıma ile çalışan son ödemeli
 elektronik ücret toplama sistemi.
+
+SK: Sathi Kaplama. Yol yüzeyine sıvı bitüm püskürtülüp üzerine agrega
+(mıcır) serilerek sıkıştırılan ekonomik kaplama türü.
 
 SMA: Taş Mastik Asfalt. Aşınma tabakasında kullanılan yüksek dayanımlı
 bitümlü karışım tipi.
@@ -80,6 +116,12 @@ yaptırım tutanağı.
 
 TMA: Çarpışma Yastıklı Araç (Truck Mounted Attenuator). Yol çalışmalarında
 konvoyun arkasında koruma sağlayan araç.
+
+TY: Tek Yol. Gidiş ve geliş trafiğinin aynı platformda, arada fiziki engel
+olmadan paylaşıldığı yol.
+
+VMS: Variable Message Sign. Değişken Mesaj İşaretinin (DMS) uluslararası
+İngilizce literatürdeki karşılığı.
 
 WIM: Hareket Halinde Tartım (Weigh In Motion). Araçları seyir halindeyken
 tartan sensör sistemi.
@@ -97,8 +139,17 @@ istinat duvarı gibi mühendislik yapılarının ortak adı. Karayolu
 literatürünün en temel terimlerindendir; "köprü ve sanat yapıları
 bakımı" gibi başlıklarda üstyapı dışındaki tüm yapıları kapsar.
 
+Aşınma tabakası: Asfalt kaplamanın araç tekerleğiyle doğrudan temas eden,
+sürtünmeye dayanıklı en üst katmanı.
+
 Banket: Taşıt yolu platformunun şerit dışında kalan, emniyetli duruşa
 ayrılan bölümü (otoyolda emniyet şeridi).
+
+Binder tabakası: Aşınma tabakasının hemen altında yer alan ve yükü alt
+tabakalara ileten ara asfalt katmanı.
+
+Devlet yolu: Şehirleri birbirine bağlayan, ağdaki birinci derece önemli
+ana karayolu; numaralandırmada "D" öneki kullanılır (örn. D-100, D-215).
 
 Dever: Kurplarda (virajlarda) merkezkaç etkisini dengelemek için yola
 verilen enine eğim.
@@ -108,6 +159,9 @@ açıklığı.
 
 Hakediş: Yüklenicinin belirli dönemde yaptığı işin bedelinin hesaplanıp
 ödenmesine esas belge.
+
+İl yolu: Devlet yolları ağı dışında kalan, ilçeleri birbirine veya il
+merkezine bağlayan ikinci derece yol.
 
 Karot: Kaplamadan silindir şeklinde alınan deney numunesi.
 
