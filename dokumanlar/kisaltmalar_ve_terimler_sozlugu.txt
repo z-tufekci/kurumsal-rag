@@ -6,11 +6,18 @@ genel karayolları literatüründe de aynı anlamda kullanılır.
 
 1. Kısaltmalar
 
+ADR: Tehlikeli Maddelerin Karayoluyla Uluslararası Taşınmasına İlişkin
+Avrupa Anlaşması. Tehlikeli madde taşıyan araçlar bu anlaşma hükümlerine
+tabidir.
+
 AID: Otomatik Olay Algılama (Automatic Incident Detection). Kamera
 görüntüsünden duran araç, ters yön ve yaya tespiti yapan yazılım.
 
 AUS: Akıllı Ulaşım Sistemleri (İngilizce karşılığı ITS - Intelligent
 Transportation Systems).
+
+BSK: Bitümlü Sıcak Karışım (asfalt). Aşınma ve binder tabakalarında
+kullanılan, plentte sıcak üretilip serilen kaplama malzemesi.
 
 C-ITS: İşbirlikli Akıllı Ulaşım Sistemleri; araç ile yol altyapısı
 arasındaki doğrudan veri iletişimi.
@@ -20,6 +27,9 @@ asgari mesafe.
 
 DMS: Değişken Mesaj İşareti (Dynamic Message Sign). İçeriği trafik yönetim
 merkezinden değiştirilebilen elektronik yol panosu.
+
+EDS: Elektronik Denetleme Sistemi. Sabit radar, ortalama hız koridoru ve
+plaka okuma altyapısıyla yapılan otomatik trafik denetimi.
 
 HGS: Hızlı Geçiş Sistemi. RFID etiketle çalışan ön ödemeli elektronik
 ücret toplama sistemi.
@@ -32,6 +42,9 @@ HGS: Hızlı Geçiş Sistemi. RFID etiketle çalışan ön ödemeli elektronik
 IRI: Uluslararası Düzgünsüzlük İndeksi (International Roughness Index).
 Yol yüzeyi konforunun m/km cinsinden ölçüsü.
 
+KDİ: Karayolları Denetim İstasyonu. Ağır taşıtların ağırlık (tartı) ve
+boyut (gabari) denetiminin yapıldığı sabit denetim tesisi.
+
 KGM: Karayolları Genel Müdürlüğü. Türkiye'de karayolu ağından sorumlu
 genel müdürlük; bu külliyattaki "kurum" benzer görev alanına sahiptir.
 
@@ -39,6 +52,15 @@ KKD: Kişisel Koruyucu Donanım (baret, reflektif giysi, eldiven vb.).
 
 KÖSOB: Kamu-Özel Sektör Ortaklığı. Yapım ve işletmenin özel sektörle
 paylaşıldığı finansman-işletme modeli.
+
+KTK: Karayolları Trafik Kanunu (2918 sayılı). Trafik düzeninin ve trafik
+cezalarının yasal dayanağı.
+
+KTY: Karayolları Trafik Yönetmeliği. KTK'ya bağlı uygulama yönetmeliği;
+araçların ölçü ve ağırlık sınırları 128. maddesinde düzenlenir.
+
+OGS: Otomatik Geçiş Sistemi. Araç içi aktarıcıyla çalışan eski nesil
+elektronik ücret toplama sistemi; yerini büyük ölçüde HGS'ye bırakmıştır.
 
 RAP: Geri Kazanılmış Asfalt (Reclaimed Asphalt Pavement). Kazınan eski
 kaplamanın yeni karışımda yeniden kullanılan malzemesi.
@@ -48,6 +70,9 @@ elektronik ücret toplama sistemi.
 
 SMA: Taş Mastik Asfalt. Aşınma tabakasında kullanılan yüksek dayanımlı
 bitümlü karışım tipi.
+
+TİPC: Trafik İdari Para Cezası. Trafik ihlallerinde düzenlenen idari
+yaptırım tutanağı.
 
 TMA: Çarpışma Yastıklı Araç (Truck Mounted Attenuator). Yol çalışmalarında
 konvoyun arkasında koruma sağlayan araç.

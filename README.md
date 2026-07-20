@@ -114,7 +114,7 @@ tesisleri, İSG, çevre, ihale-hakediş ve istatistik tabloları. Belgeler
 birbirine çapraz atıf yapar; sayılar dosyalar arasında tutarlıdır.
 Tüm içerik kurgusaldır.
 
-`degerlendirme/sorular.csv` bu korpus için hazırlanmış **156 soruluk** settir:
+`degerlendirme/sorular.csv` bu korpus için hazırlanmış **160 soruluk** settir:
 her satırda soru, beklenen cevap, kaynak dosya(lar) ve soru tipi
 (`tekil`, `sayisal`, `es_anlamli`, `coklu_dokuman`, `yok`) bulunur.
 `yok` tipi soruların cevabı korpusta bilerek YOKTUR — halüsinasyon testi.

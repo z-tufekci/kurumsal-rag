@@ -21,7 +21,10 @@ karakter penceresiyle karşılaştırın.
 ## 2. Sparse Arama (BM25) ⭐⭐
 **Dosya:** yeni — `asama7_bm25.py`
 **Gözlemleyin:** "SGS" gibi kısaltmaları ve "14 gün" gibi sayıları dense
-arama her zaman ilk sıraya koyuyor mu?
+arama her zaman ilk sıraya koyuyor mu? Not: `asama5`'teki sorgu genişletme
+(`sorguyu_genislet`) sorudaki kısaltmayı açar ama TERS yönü çözmez —
+soru açık haliyle sorulup doküman yalnızca kısaltma kullanıyorsa, ya da
+kısaltma sözlükte yoksa (IRI gibi tam eşleşme gereken durumlar) BM25 gerekir.
 **Yapın:** SQLite'ın FTS5 eklentisiyle (ek kütüphane gerekmez) parçalar
 üzerinde anahtar kelime araması kurun. Kurumsal projede de sparse arama
 SQLite FTS5 ile yapılır — birebir aynı fikir.
