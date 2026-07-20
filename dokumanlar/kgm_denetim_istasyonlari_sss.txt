@@ -1,0 +1,108 @@
+​​Karayolları Denetim İstasyonlarında Yapılan Denetimler Hakkında Sıkça Sorulan Sorular​
+ 
+GENEL BİLGİLER
+ 
+KARAYOLLARI DENETİM İSTASYONLARINDA YAPILAN DENETİMLER HAKKINDA SIKÇA SORULAN SORULAR
+ 
+GENEL BİLGİLER:
+1- Yüksüz ve yüklü ağırlık ile katar ağırlığı nedir?
+Cevap:
+Azami Ağırlık: Aracın güvenle taşıyabileceği azami yükle birlikte ağırlığıdır.
+Yüksüz Ağırlık: Üzerinde insan veya eşya (yük) bulunmayan ve akaryakıt deposu dolu olan bir aracın taşınması zorunlu alet, edevat ve donatımı ile birlikte toplam ağırlığıdır.
+Yüklü Ağırlık: Bir taşıtın yüksüz ağırlığı ile taşımakta olduğu sürücü, hizmetli, yolcu ve eşyanın toplam ağırlığıdır.
+Azami Toplam Ağırlık: Araçların karayollarında güvenle ve yapıya zarar vermeden geçebilmeleri için saptanan toplam ağırlıktır.
+Taşıt Katarı: Karayolunda bir birim olarak seyretmek üzere birbirine bağlanmış en çok 2 römorktan oluşan araçlardır.
+Katar ağırlığı: Azami yüklü ağırlık ile römork azami yüklü ağırlığı toplamıdır.
+2- Karayolları Denetim istasyonlarında yapılan denetim sonucunda fazla tonajı çıkan araçlara hangi işlemler yapılmaktadır?
+Cevap: 2918 sayılı Karayolları Trafik Kanununun 65/b maddesi gereğince azami yüklü ağırlığın veya izin verilen azami yüklü ağırlığın aşıldığının tespit edilmesi halinde anılan maddenin üçüncü fıkrasının a,b,c,d ve e bentlerine göre azami yüklü ağırlığın aşılması oranında Trafik İdari Para Cezası uygulanmaktadır. Söz konusu maddenin beşinci fıkrasına göre Azami yüklü ağırlığın % 20'den fazla aşılması halinde fazla yük, birinci fıkranın (b) bendine uygun hale getirilmeden yola devam etmesine izin verilmez.
+3- Karayolları Denetim istasyonlarında yapılan denetim sonucunda genişlik, yükseklik ve/veya uzunluk ölçüleri fazla çıkan araçlara hangi işlemler yapılmaktadır?
+Cevap: Karayolları Trafik Yönetmeliğinin 128. maddesinin birinci fıkrasında belirtilen ölçülerden herhangi birinin aşılması durumunda 2918 sayılı Karayolları Trafik Kanununun   65/g (Gabari dışı yük yüklenmesi yasaktır) maddesi gereğince Trafik İdari Para Cezası düzenlenmektedir.
+4- Karayolları Denetim İstasyonuna girmesi gerekip de girmeden seyrine devam eden araçlara hangi işlemler yapılmaktadır?
+Cevap: 2918 sayılı Karayolları Trafik Kanununun   65/4 (Ağırlık ve boyut kontrol mahallerinde işaret, ışık, ses veya görevlilerin dur ikazına rağmen tartı veya ölçü kontrolüne girmeden seyrine devam eden araçlara tescil plakalarına göre idari para cezası uygulanır) maddesi gereğince Trafik İdari Para Cezası düzenlenmektedir.
+5- Başka bir denetim noktasında tonaj veya gabari cezası uygulanan araca tekrar tonaj cezası yazılabilir mi?
+Cevap: Kamyon ve çekici + römork cinsi bütün araçlar ağırlık ve boyut denetimi için güzergahları üzerinde bulunan tüm denetim istasyonlarına girmek zorundadırlar. Her denetim istasyonunda kendi tartım ve ölçüm sonucuna göre tonaj veya gabari ihlali yapıldığı tespit edildiğinde 2918 sayılı Karayolları Trafik Kanunun 65 inci maddesi gereğince Trafik İdari Para Cezası uygulanır. 
+6- Herhangi bir Karayolları Denetim İstasyonunda ağırlık denetimi yapılan aracın tartım sonucunun başka bir Karayolları Denetim İstasyonunda farklı çıkması mümkün mü?
+Cevap: Karayolları Denetim İstasyonlarında araçlar durdurulmadan düşük hızda dinamik tartım yapılmakta olduğundan aynı araçla aynı kantarda birden fazla tartım yapıldığında dahi aracın hızına ve fren yapmasına bağlı olarak aracın salınımı nedeniyle tartı toleransı sınırları dahilinde farklı sonuçların elde edilmesi mümkündür.
+Farklı Karayolları Denetim İstasyonlarında yapılan tartım (tonaj) sonuçlarında farklılık olması mümkündür.
+7- Tartı toleransı nedir?
+Cevap: Tartı toleransı: Tartı yapan alet ve cihazların gerçek ağırlığa nazaran tartım esnasında kilogram cinsinden gösterdiği sapma miktarıdır. Tartı toleransı taşımacılara tanınmış bir hak değil oluşabilecek mağduriyetlerin önlenmesi için uygulanan bir esnekliktir.
+Araçların Yüklenmesine İlişkin Ölçü ve Usuller İle Tartı ve Boyut Ölçüm Toleransları Hakkında Yönetmeliğin 7. maddesine göre tartı toleransı en çok [(aracın azami ağırlığının % 3,75'i) + 500] kilogram olarak kabul edilir.
+2918 sayılı Karayolları Trafik Kanununun 65 inci maddesinin üçüncü fıkrasının (a), (b), (c), (d) ve (e) bentlerinde belirtilen fazla yükleme oranları hesabında; aracın azami ağırlığı ile birinci fıkrada belirlenen tartı toleransının toplamı esas alınır.
+8- Ruhsatlarında özel izin almadan trafiğe çıkamaz ibaresi bulunan araçlara ne tür işlem yapılmakta?
+Cevap: Projesine göre tadilatı yapılıp özel amaçlı araca (vinç, beton pompası vb.) dönüştürülen araçların Karayolları Trafik Yönetmeliğinin 128. maddesinde belirtilen ağırlık ve boyutları aşmaları durumunda ruhsatlarında (diğer bilgiler kısmında) bu araçların Özel İzin Belgesi alarak trafiğe çıkabilecekleri belirtilmektedir. Ruhsatlarında Özel İzin belgesi alması gerektiği yazanların izin belgesi alarak yola devam etmeleri gerekmektedir. Özel İzin belgesi alması gerekip de almadığı tespit edilenlere 2918 sayılı Karayolları Trafik Kanunu'nun 47 nci maddesi gereğince cezai işlem uygulanır.
+8- Karayolları Genel Müdürlüğünce Karayolları Denetim İstasyonlarında yapılmakta olan ağırlık, boyut, takograf ve çalışma-dinlenme süreleri denetimleri ile ilgili hangi yasal mevzuat uygulanmaktadır?
+Cevap: Karayolları Denetim İstasyonlarında yapılmakta olan denetimlerle ilgili olarak 2918 sayılı Karayolları Trafik Kanunu'nun 31., 49. ve 65. maddeleri ile bu kanuna bağlı olarak çıkarılan Karayolları Trafik Yönetmeliğinin 98. ve 128. maddeleri hükümleri uygulanmaktadır.
+9- Karayolları Denetim İstasyonlarında hangi kamu kurum ve kuruluşları denetim yapmaktadır?
+Cevap: Karayolları Denetim İstasyonlarında;
+a) Karayolları Genel Müdürlüğü,
+b) Emniyet Genel Müdürlüğü,
+c) Jandarma Genel Komutanlığı,
+d) Ulaştırma Hizmetleri Düzenleme Genel Müdürlüğü,
+e) Gelir İdaresi Başkanlığı,
+f) Gıda ve Kontrol Genel Müdürlüğü,
+g) Orman Genel Müdürlüğü,
+ğ) Belediye Başkanlıkları,
+ilgili birimleri görevli ve yetkili oldukları konularda denetimler yapmaktadır.
+ 
+ÖZEL YÜK TAŞIMA İZİN BELGESİ VE ÖZEL İZİN BELGESİ
+1- Özel Yük Taşıma İzin Belgesi nedir?
+Cevap: 2918 sayılı Karayolları Trafik Kanunu 33 üncü maddesi gereğince ağırlık ve boyutları bakımından özelliği olan, başka ulaşım sistemleri ile taşınması olmayan ve taşıma sınırını aşıp da taşınması zorunlu olan yüklerin taşınması için düzenlenen belgedir.
+2- Özel İzin Belgesi nedir?
+Cevap: Tescilli veya tescilsiz olup, yüksüz olarak Karayolları Trafik Yönetmeliğinin 128. maddesinin birinci fıkrasında belirtilen ölçülerden en az birini aşan araç, yarı römorklu araç, katar, iş makineleri ve benzerlerinin karayolunda trafiğe çıkışı için düzenlenen belgedir.
+3- Özel Yük Taşıma İzin Belgesi ve Özel İzin Belgesi nereden alınır?
+Cevap: Özel Yük Taşıma İzin Belgesi ve Özel İzin Belgesi başvuruyu yapan araç işletenleri veya vekilleri, kamu kurum veya kuruluşları ile tüzel kişiliklerce yetkilendirilenler tarafından mesai saatleri içerisinde e-devlet kapısı www.turkiye.gov.tr üzerinden başvuru yapılarak Karayolları Genel Müdürlüğünden alınır.
+4- Özel Yük Taşıma İzin Belgesinin geçerlilik süresi ne kadardır?
+Cevap: Özel Yük Taşıma İzin Belgesi geçerlik süresi içinde bir taşıma için verilmektedir.
+5- Bir yükün taşınması için alınmış Özel Yük Taşıma İzin Belgesi yük boşaltılıp dönüş yapıldığında da geçerli midir?
+Cevap: Özel Yük Taşıma İzin Belgesi bir taşıma ve gidiş yönü için geçerlidir. Karayolları Trafik Yönetmeliğinin 128. maddesinde belirtilen ölçü ve boyutlardan en az birini aşan araçların yüksüz olarak dönüş yapabilmesi için Özel İzin Belgesi alması gerekmektedir. 
+6- Özel İzin Belgesinin geçerlilik süresi ne kadardır?
+Cevap: Ticari araçlar için Özel İzin Belgesi 15 gün süreli düzenlenmektedir.
+7- Özel Yük Taşıma İzin Belgesi ve Özel İzin Belgesi nasıl düzenlenmektedir?
+Cevap: Özel Yük Taşıma İzin Belgesi ve Özel İzin Belgesi başvuruda beyan edilen bilgilerin doğruluğu esas alınmak kaydıyla düzenlenmektedir.
+Karayolları Denetim İstasyonlarındaki kontroller esnasında araç ve yüke ait beyan edilen bilgilerden (araç bilgileri, ağırlık ve boyut bilgilerinin) herhangi birinin yanlış olduğu, nakil veya taşıma güzergahının dışına çıkıldığının tespit edilmesi halinde 2918 sayılı Karayolları Trafik Kanunu'nun 47 nci ve 65 inci maddeleri gereğince cezai işlem uygulanmaktadır.
+8- Özel Yük Taşıma İzin Belgesi veya Özel İzin Belgesi alması gereken araçlar izin belgesi almadan karayoluna çıkabilir mi?
+Cevap: Özel Yük Taşıma İzin Belgesi veya Özel İzin Belgesi alması gereken araçlar izin almadan karayoluna çıkarıldığında Karayolları Trafik Kanunu'nun 47 nci ve 65 inci maddeleri gereğince Trafik İdari Para Cezası uygulanıp araçlar trafikten men edilir.
+9- Özel Yük Taşıma İzin Belgesi veya Özel İzin Belgesi alan araçların Karayolları Denetim İstasyonlarına girme zorunluluğu var mı? 
+Cevap: Özel Yük Taşıma İzin Belgesi veya Özel İzin Belgesi almış olan istisnasız her araç izin belgesinde belirtilen taşıma güzergahı üzerinde bulunan Karayolları Denetim İstasyonlarına girerek belge, tartı, ölçü ve boyut kontrolü yaptırmak zorundadırlar.
+Karayolları Denetim İstasyonlarına kontrole girmeden seyrine devam edenlere (Özel Yük Taşıma İzin Belgesi veya Özel İzin Belgesi almış olsalar bile) Karayolları Trafik Kanununun 65/4 maddesi gereğince Trafik İdari Para Cezası uygulanmaktır.
+10- Özel Yük Taşıma İzin Belgesi veya Özel İzin Belgesi alan araçların destek aracı (eskort) bulundurması zorunlu mu?
+Cevap: Özel Yük Taşıma İzin Belgesi veya Özel İzin Belgesi alarak trafiğe çıkacak aracın azami genişlik: 3 metre veya azami uzunluk: 22 metre ölçülerinden birini aşması veya bu ölçüler aşılmamış olsa dahi yükün aracın arka kısmından taşacak şekilde yüklenmiş olması halinde bölünmüş yollarda aracın arkasında, iki yönlü yollarda hem önünde hem arkasında destek aracı (eskort) bulundurması zorunludur.
+11- Gabarisi aşan özel amaçlı kurtarıcılar ile oto taşıyıcılar (taşıt nakli yapanlar) Özel Yük Taşıma İzin Belgesi alacak mı?
+Cevap: Karayolları Trafik Yönetmeliğinin 128. maddesinde Karayollarında seyreden araçların yüklü ve yüksüz olarak uyacakları boyutları belirlenmiştir.
+Kurtarıcı araçlar arızalı veya kazalı, oto taşıyıcılar (taşıt nakli yapanlar) nakledilen araçları taşırken Karayolları Trafik Yönetmeliğinin 128. maddesinde belirtilen boyutları aşmamaları gerekmektedir. Yönetmelikte belirtilen boyutların aşılması halinde Özel Yük Taşıma İzin Belgesi alınması gerekmektedir.
+ 
+DENETİM MUAFİYETİ:
+1- Özel Amaçlı araçların denetimi için bir muafiyet var mıdır?
+Cevap: Cenaze araçları, naklen yayın araçları, çöp araçları ile yük taşımasında kullanılmayan (mobil vinç, beton pompası, motorlu karavan, mobil sağlık aracı, mobil laboratuvar, mobil mutfak, mobil kütüphane vb.) özel amacı araçlar Karayolları Denetim İstasyonlarına zorunlu girişten muaftırlar.
+2- Sıvı Yük Taşıyan araçların denetim nasıl yapılmaktadır?
+Cevap: Sıvı ürün nakli yapan kamyon, çekici ve yarı römork sınıfı araçlar denetime alınmakta olup ağırlık ile ilgili herhangi bir cezai işlem uygulanmamaktadır.
+Sıvı ürün nakli yapan kamyon, çekici ve yarı römork sınıfı araçların takograf ve çalışma-dinlenme süreleri yönünden denetimleri yapılarak ihlal yaptığı tespit edilenlere 2918 sayılı Karayolları Trafik Kanunu'nun 31. ve 49. maddesine göre Trafik İdari Para Cezası Karar Tutanağı düzenlenmesi gerekmektedir.  
+Ancak denetime girmeyen sıvı ürün nakli yapan araçlara 2918 sayılı Karayolları Trafik Kanunu'nun 65/4 maddesi gereğince Trafik İdari Para Cezası Karar Tutanağı düzenlenmektedir.
+ 3- Karayolları Denetim İstasyonlarında hangi tür araçlar zorunlu denetime tabidir?
+Cevap: Kanunla belirlenmiş ve geçiş üstünlüğüne sahip araçlar dışında kalan (kamyon, çekici, yarı römork, römork, tanker, özel amaçlı araç, vb.) araçlar zorunlu denetime tabidir.
+4- Kamyonet sınıfı araçlar zorunlu denetime tabimi?
+Cevap: 12.04.2022 tarih ve 120012 sayılı Genel Müdürlüğümüz Olur'u ile azami yüklü ağırlığı 3.500 Kg. ve altında olan kamyonet, panelvan vb. olarak tescil edilmiş araçlar ağırlık ve boyut kontrolüne zorunlu girişten muaf tutulmuş olup bahse konu muafiyet devam etmektedir.
+Karayolları Denetim İstasyonlarında, yalnızca uygunsuz ve düzensiz yükleme yaparak trafik güvenliğini tehlikeye düşürdüğü tespit edilen kamyonet sınıfı araçlar görevlilerimiz tarafından denetime alınmakta olup uygun ve düzenli yükleme yapan kamyonet sınıfı araçlar denetime alınmamaktadır.
+5- Kamyonet sınıfı oto kurtarıcı araçlar, römorklu veya römorksuz zorunlu denetime tabimi?
+Cevap: Kamyonet sınıfı oto kurtarıcı araçlar, römorklu veya römorksuz zorunlu denetime tabi değillerdir.
+6- Resmi plakalı araçların Karayolları Denetim İstasyonlarına girmesi gerekir mi?
+Cevap: 2918 sayılı Karayolları Trafik Kanunu gereğince hususi, ticari veya resmi ayrımı yapılmaksızın kamyon ve çekici + yarı römork sınıfı araçların ağırlık ve boyut denetimi için Karayolları Denetim İstasyonlarına girmeleri gerekmektedir.
+7- Yabancı plakalı araçların Karayolları Denetim İstasyonlarına girmesi gerekir mi?
+Cevap: Yabancı ülkelere ait kayıtlı araçlara herhangi bir istisna uygulanmadan ağırlık ve boyut denetimi için Karayolları Denetim İstasyonlarına yönlendirilerek gerekli kontroller yapılmaktadır.
+8- Hangi araçların Karayolları Denetim İstasyonlarına girme zorunluluğundan muafiyeti vardır?
+Cevap:
+a) Azami yüklü ağırlığı 3.500 Kg. ve altında olan kamyonet, panelvan vb. olarak tescil edilmiş araçlar,
+b) Cenaze araçları,
+c) Naklen yayın araçları,
+d) Çöp araçları,
+e) Yarı römorksuz çekiciler,
+f) Yük taşımasında kullanılmayan (mobil vinç, beton pompası, motorlu karavan, mobil sağlık aracı, mobil laboratuvar, mobil mutfak, mobil kütüphane vb.) özel amacı araçlar,
+g) 2918 sayılı Karayolları Trafik Kanunu'nun 71. maddesinde belirtilen geçiş üstünlüğüne sahip araçlar sadece görev halindeyken,
+Karayolları Denetim İstasyonlarına zorunlu girişten muaftırlar.
+TRAFİK İDARİ PARA CEZALARINA İTİRAZ VE ÖDENME:
+1- Trafik İdari Para Cezalarına itiraz için ne yapmak gerekir?
+Cevap: Trafik İdari Para Cezalarına itirazın cezanın tebliğ edildiği tarihinden itibaren 15 gün içerisinde Sulh Ceza Mahkemelerine yapılması gerekmektedir.
+2- Karayolları Denetim İstasyonunda uygulanan para cezasını nereye ödeyeceğim?
+Cevap: Tebliğ edilmiş olan Trafik İdari Para Cezaları vergi dairelerine veya https://dijital.gib.gov.tr adresinden ödenebilmektedir. Henüz tebliğ edilmemiş olan Trafik İdari Para Cezaları aracın kayıtlı olduğu vergi dairesine beyan ile ödenebilmektedir.
+3- Trafik İdari Pazara Cezası hangi şartlarda %25 indirimli ödenebilir?
+Cevap: Trafik İdari Para Cezasının tebliğ tarihinden itibaren 30 gün içerisinde ödenmesi halinde dörtte bir oranında indirim yapılır.

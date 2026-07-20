@@ -108,6 +108,20 @@ ve puanı SQLite'a kaydedin. 👍 alan örnekler ileride fine-tuning verisi,
 👎 alanlar hata analizi malzemesidir. Kurumsal projedeki denetim izinin
 (audit) en yalın halidir.
 
+## 14. Çelişen Kaynaklar ⭐⭐⭐ (ortak tartışma)
+**Dosyalar:** `dokumanlar/karayolu_denetim_istasyonlari.docx` (kurgusal iç
+yönerge) ↔ `dokumanlar/kgm_denetim_istasyonlari_sss.txt` (GERÇEK KGM SSS'i)
+**Gözlemleyin:** İki doküman aynı konuda farklı değerler verir: iç yönerge
+dingil toleransını "%5", eskort şartını ">3,50 m / >30 m" der; KGM SSS'i
+toleransı "(azami ağırlığın %3,75'i) + 500 kg", eskortu ">3 m / >22 m" der.
+"Tartı toleransı nedir?" diye sorun — sistem hangisini getiriyor, LLM
+ikisini karıştırıyor mu, kaynak gösterimi kullanıcıyı kurtarıyor mu?
+**Yapın:** Çözüm tasarlayın ve tartışın: metadata'ya kaynak türü ekleyip
+(`mevzuat` / `ic_yonerge`) yanıtta ikisini de kaynağıyla ayrı ayrı sunmak mı,
+önceliklendirmek mi, çelişkiyi açıkça söyletmek mi? Gerçek kurum arşivlerinde
+bu durum istisna değil KURALDIR (eski/yeni sürüm, iç kural/ulusal mevzuat) —
+kurumsal RAG'in en zor problemlerinden biriyle ilk temasınız.
+
 ## Kurumsal projeyle eşleşme
 
 | Ödev | Kurumsal projedeki karşılığı |
