@@ -21,6 +21,7 @@ yazan birinin sistemi ele geçirememesi gerekir.
 """
 
 import re
+import time
 
 import requests
 
@@ -79,13 +80,21 @@ def prompt_olustur(soru: str, sonuclar: list[dict]) -> str:
     return f"Bağlam parçaları:\n\n{baglam}\n\nSoru: {soru}"
 
 
-def yanit_uret(soru: str, vektorler, parcalar) -> tuple[str, list[dict]]:
-    """Uçtan uca RAG: retrieval → prompt → LLM. Yanıt metni ve kaynakları döndürür."""
+def yanit_uret(soru: str, vektorler, parcalar) -> tuple[str, list[dict], dict]:
+    """Uçtan uca RAG: retrieval → prompt → LLM.
+
+    Yanıt metni, kaynaklar ve süre ölçümlerini döndürür. Süreleri katman
+    katman ölçüyoruz ki gecikmenin nerede yaşadığı görünsün: getirme
+    (retrieval) milisaniyeler sürer, saniyeler hep LLM'e aittir.
+    """
+    baslangic = time.perf_counter()
     sonuclar = ara(soru, vektorler, parcalar)
+    getirme_suresi = time.perf_counter() - baslangic
     if not sonuclar:
-        return ("Bu soruyla ilgili doküman bulamadım; farklı sözcüklerle sormayı deneyin.", [])
+        return ("Bu soruyla ilgili doküman bulamadım; farklı sözcüklerle sormayı deneyin.", [], {})
     sonuclar = butceye_sigdir(sonuclar)
 
+    baslangic = time.perf_counter()
     yanit = requests.post(
         f"{OLLAMA_URL}/api/chat",
         json={
@@ -100,15 +109,25 @@ def yanit_uret(soru: str, vektorler, parcalar) -> tuple[str, list[dict]]:
         },
         timeout=600,
     )
+    llm_suresi = time.perf_counter() - baslangic
     yanit.raise_for_status()
-    metin = yanit.json()["message"]["content"]
+    veri = yanit.json()
+    metin = veri["message"]["content"]
     # "think" ayarını tanımayan Ollama/model kombinasyonlarında düşünme metni
     # yanıta sızabilir; bazen açılış <think> etiketi de bulunmaz. Her iki
     # durumda da son </think> etiketine kadar olan kısmı at.
     metin = re.sub(r"<think>.*?</think>", "", metin, flags=re.DOTALL)
     if "</think>" in metin:
         metin = metin.rsplit("</think>", 1)[-1]
-    return metin.strip(), sonuclar
+    sureler = {
+        "getirme": getirme_suresi,
+        "llm": llm_suresi,
+        # Ollama'nın kendi ölçümleri (nanosaniye); eski sürümlerde olmayabilir
+        "prompt_token": veri.get("prompt_eval_count"),
+        "uretim_token": veri.get("eval_count"),
+        "uretim_ns": veri.get("eval_duration"),
+    }
+    return metin.strip(), sonuclar, sureler
 
 
 if __name__ == "__main__":
@@ -147,10 +166,18 @@ if __name__ == "__main__":
             print(f"Bağlam bütçesi: {baglam_boyu}/{BAGLAM_BUTCESI} karakter "
                   f"({len(sonuclar)} parça). Pencere: num_ctx=8192 token.\n")
             continue
-        metin, sonuclar = yanit_uret(soru, vektorler, parcalar)
+        metin, sonuclar, sureler = yanit_uret(soru, vektorler, parcalar)
         print(f"\n{metin}\n")
         if sonuclar:
             print("Kullanılan kaynaklar:")
             for s in sonuclar:
                 print(f"  {s['skor']:.3f}  {kaynak_etiketi(s)}")
+        if sureler:
+            satir = (f"⏱ toplam {sureler['getirme'] + sureler['llm']:.1f} sn — "
+                     f"getirme {sureler['getirme']:.2f} sn · LLM {sureler['llm']:.1f} sn")
+            if sureler.get("uretim_token") and sureler.get("uretim_ns"):
+                hiz = sureler["uretim_token"] / (sureler["uretim_ns"] / 1e9)
+                satir += (f" (prompt {sureler['prompt_token']} token, "
+                          f"üretim {sureler['uretim_token']} token, {hiz:.0f} token/sn)")
+            print(satir)
         print()
