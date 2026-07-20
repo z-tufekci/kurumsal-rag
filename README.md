@@ -156,3 +156,7 @@ Bu naive sürümün **bilinçli eksikleri** var. [gelistirme_odevleri.md](gelist
 dosyası her eksiği bir ödeve dönüştürür (hybrid search, RRF, Chroma, artımlı
 indeksleme, değerlendirme...). Konuyu anlayıp analiz ettikten sonra
 geliştirmeleri bu liste üzerinden yapacağız.
+
+Ödev fazında ekip çalışması kuralları için: [KATKI_REHBERI.md](KATKI_REHBERI.md)
+(dal → PR → inceleme akışı, günlük ritim, sık hatalar). Ödevler GitHub
+Issues'ta iz (track) ve haftalık milestone'larla dağıtılmıştır.
