@@ -113,7 +113,7 @@ no,soru,beklenen_cevap,kaynak_dosyalar,tip
 112,"Kurum personelinin maaş skalası nedir?","Dokümanlarda yer almıyor.","",yok
 113,"2027 yılı bakım bütçesi ne kadar?","Dokümanlarda yer almıyor (yalnızca 2026 bütçesi var).","",yok
 114,"Otoyol ağında kaç akaryakıt istasyonu var?","Dokümanlarda sayı yok (yalnızca tesislerde akaryakıt zorunluluğu geçer).","",yok
-115,"Kurum hangi yılda kuruldu?","Dokümanlarda yer almıyor.","",yok
+115,"Kurumun resmi sosyal medya hesapları hangileridir?","Dokümanlarda yer almıyor.","",yok
 116,"Yemekhane kaçta açılıyor?","Dokümanlarda yer almıyor.","",yok
 117,"Şehirlerarası otobüs bilet fiyatları nedir?","Dokümanlarda yer almıyor.","",yok
 118,"Bir kilometre otoyol inşaatının maliyeti nedir?","Dokümanlarda yer almıyor.","",yok
@@ -159,3 +159,11 @@ no,soru,beklenen_cevap,kaynak_dosyalar,tip
 158,"BSK serimi için sıcaklık şartları nelerdir?","Karışım 135 derecenin altına düşmeden serilir, sıkıştırma 80 derecenin üzerinde tamamlanır; yüzey 10 derecenin altındayken serim yapılmaz.","asfalt_kaplama_teknik_sartnamesi.docx",es_anlamli
 159,"EDS ile hız denetimi nasıl yapılır?","Sabit radar noktaları, ortalama hız koridorları (plaka okuma) ve mobil ekiplerle; veriler 30 gün içinde anonimleştirilir.","hiz_limitleri_genelgesi.pdf",es_anlamli
 160,"KTK'nın 65. maddesi neyi düzenler?","Ağırlık denetimini ve fazla yüklemede uygulanacak trafik idari para cezalarını; 65/4 denetime girmeden devam edenlerin cezasıdır.","kgm_denetim_istasyonlari_sss.txt",es_anlamli
+161,"KGM hangi yılda kuruldu ve ilk dönem ilkesi neydi?","1950 yılında kuruldu; kuruluş yıllarında 'Tekerlek Dönsün' ilkesiyle mevcut yolların bakım-onarımını yürüttü.","kgm_tarihce_ve_yol_agi.txt",tekil
+162,"2025 sonu itibarıyla toplam yol ağı kaç kilometredir ve ne kadarı otoyoldur?","68.510 km toplam ağ; 3.796 km otoyol, toplam 30.049 km (yüzde 44) bölünmüş yol.","kgm_tarihce_ve_yol_agi.txt",sayisal
+163,"Avrupa'nın en uzun çift tüplü karayolu tüneli hangisidir?","14,5 km uzunluğuyla Zigana Tüneli.","kgm_tarihce_ve_yol_agi.txt",tekil
+164,"1915 Çanakkale Köprüsü ne zaman hizmete açıldı?","2022 yılında, Malkara-Çanakkale Otoyolu ile birlikte.","kgm_tarihce_ve_yol_agi.txt",sayisal
+165,"Kaç tarihi köprü restore edilmiştir?","2003'ten günümüze toplam 522 tarihi köprü.","kgm_tarihce_ve_yol_agi.txt",sayisal
+166,"KGM'nin kanuni görevleri nelerdir?","Otoyol, devlet ve il yolları ağını tespit etmek; yol ve köprüleri yapmak, onarmak, bakımını sağlamak; standart ve teknik şartname hazırlamak; trafik güvenliği esaslarını belirlemek; harita/etüt/proje işleri; gerekli taşınmazları kamulaştırmak.","kgm_gorevleri.txt",tekil
+167,"Yol yapımı için arazi kamulaştırma yetkisi kimde?","KGM'de: görev alanındaki işler için her türlü taşınmazı kamulaştırabilir, satın alabilir, kiralayabilir veya geçici işgal edebilir.","kgm_gorevleri.txt",tekil
+168,"KÖİ modeliyle hangi otoyollar yapıldı?","İstanbul-İzmir (2019), Menemen-Aliağa-Çandarlı ve Ankara-Niğde (2020), Kuzey Marmara (2021), 1915 Çanakkale Köprüsü ve Malkara-Çanakkale (2022), Aydın-Denizli (2025).","kgm_tarihce_ve_yol_agi.txt",es_anlamli

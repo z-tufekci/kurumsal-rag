@@ -50,8 +50,12 @@ genel müdürlük; bu külliyattaki "kurum" benzer görev alanına sahiptir.
 
 KKD: Kişisel Koruyucu Donanım (baret, reflektif giysi, eldiven vb.).
 
+KÖİ: Kamu-Özel İşbirliği. Genel karayolları literatüründe kullanılan
+finansman-işletme modeli adı; bu külliyattaki KÖSOB aynı model ailesini
+ifade eder.
+
 KÖSOB: Kamu-Özel Sektör Ortaklığı. Yapım ve işletmenin özel sektörle
-paylaşıldığı finansman-işletme modeli.
+paylaşıldığı finansman-işletme modeli (genel literatürdeki adı KÖİ'dir).
 
 KTK: Karayolları Trafik Kanunu (2918 sayılı). Trafik düzeninin ve trafik
 cezalarının yasal dayanağı.

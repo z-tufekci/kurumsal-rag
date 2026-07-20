@@ -98,15 +98,16 @@ Deneme soruları (örnek dokümanlara göre):
 
 ## Test korpusu ve değerlendirme
 
-`dokumanlar/` klasöründe kurgusal bir karayolları kurumuna ait **35 dosyalık**
-test korpusu bulunur: 11 txt (kısaltma/terim sözlüğü dahil), 10 docx (biri
+`dokumanlar/` klasöründe kurgusal bir karayolları kurumuna ait **37 dosyalık**
+test korpusu bulunur: 13 txt (kısaltma/terim sözlüğü dahil), 10 docx (biri
 envanter tablolu), 9 pdf (tablolu; uzun/çok sayfalı örnekler dahil),
 5 xlsx (çok sayfalı).
 
-İstisna: `kgm_denetim_istasyonlari_sss.txt` GERÇEK bir kamu dokümanıdır
-(Karayolları Genel Müdürlüğünün kamuya açık SSS sayfasından alınmıştır) ve
-kurgusal denetim yönergemizle bilerek çelişen değerler içerir (örn. tartı
-toleransı) — çelişen kaynaklar problemi için canlı malzeme
+İstisna — üç dosya GERÇEK kamu dokümanıdır (Karayolları Genel Müdürlüğünün
+kamuya açık sayfalarından): `kgm_denetim_istasyonlari_sss.txt`,
+`kgm_tarihce_ve_yol_agi.txt`, `kgm_gorevleri.txt`. Bunlar kurgusal
+yönergelerimizle yer yer bilerek çelişir/örtüşür (örn. tartı toleransı,
+KÖSOB ↔ KÖİ) — çelişen kaynaklar problemi için canlı malzeme
 (bkz. gelistirme_odevleri.md, ödev 14). Diğer tüm içerik kurgusaldır.
 Konular: ücretlendirme (HGS/SGS), bakım ve kar mücadelesi, tünel/köprü
 güvenliği, denetim istasyonları (WIM), akıllı ulaşım sistemleri, hizmet
@@ -114,7 +115,7 @@ tesisleri, İSG, çevre, ihale-hakediş ve istatistik tabloları. Belgeler
 birbirine çapraz atıf yapar; sayılar dosyalar arasında tutarlıdır.
 Tüm içerik kurgusaldır.
 
-`degerlendirme/sorular.csv` bu korpus için hazırlanmış **160 soruluk** settir:
+`degerlendirme/sorular.csv` bu korpus için hazırlanmış **168 soruluk** settir:
 her satırda soru, beklenen cevap, kaynak dosya(lar) ve soru tipi
 (`tekil`, `sayisal`, `es_anlamli`, `coklu_dokuman`, `yok`) bulunur.
 `yok` tipi soruların cevabı korpusta bilerek YOKTUR — halüsinasyon testi.
