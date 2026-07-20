@@ -132,6 +132,15 @@ Altın kural: **her geliştirmeden önce ve sonra bu scripti çalıştırın**;
 Kendi dosyalarınızı da `dokumanlar/` klasörüne atıp `asama4`'ü yeniden
 çalıştırabilirsiniz (taranmış/görüntü PDF'ler OCR olmadığı için boş çıkar).
 
+## Sunuma hazırlık
+
+[SUNUM_REHBERI.pdf](SUNUM_REHBERI.pdf) — 7 sunum konusunun kapsamı, ilgili
+aşama dosyaları ve her sunumda yanıtlanması beklenen sorular. Sunumdan önce
+kendi konunuzun bölümünü mutlaka okuyun; "ölçülmüş en az bir deney" beklentisi
+tüm sunumlar için geçerlidir. (Not: Bu rehber `dokumanlar/` klasöründe DEĞİL
+repo kökündedir — korpusa indekslenmemesi bilinçli bir tercihtir; nedenini
+düşünmek de güzel bir mini egzersiz.)
+
 ## Analiz soruları (sunum öncesi cevaplayın)
 
 1. Neden sadece embedding araması yetmez? BM25 ile dense search birbirini nasıl tamamlar?
