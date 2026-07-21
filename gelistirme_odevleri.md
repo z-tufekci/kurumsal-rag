@@ -88,6 +88,18 @@ kütüphane gerektirmeyen tam metin arama eklentisidir — BM25'i bunun
    sorularınız. Kaçan sorularda genelde ortak bir örüntü olur: bir
    kısaltma, bir madde/kod numarası, ya da dokümanla BİREBİR aynı bir
    ifade. Hangi örüntüyü gördüğünüzü not edin.
+
+   Not: Çıktıda `beklenen: (boş dönüş)` yazan satırlar "yok" tipi
+   sorulardır — bunlar farklı bir problemdir (eşik ayarıyla ilgili),
+   BM25 bunları çözmez; göz ardı edin. Yalnızca `beklenen:` alanında
+   gerçek bir dosya adı yazan satırlara bakın. Çok sayıda "yok" satırı
+   araya girip listeyi kalabalıklaştırıyorsa şu komutla yalnızca gerçek
+   kaçan soruları filtreleyebilirsiniz:
+   ```
+   python degerlendirme.py --ayrinti | grep -A2 "(tekil)\|(sayisal)\|(es_anlamli)\|(coklu_dokuman)"
+   ```
+   (`-A2`: eşleşen satırdan SONRAKİ 2 satırı da göster — asıl bilgi olan
+   `beklenen`/`gelen` alanları oradadır.)
 2. `sqlite3.connect(INDEKS_KLASORU / "bm25.db")` ile AYRI bir veritabanı
    açın (vektör indeksinden bağımsız).
 3. FTS5 sanal tablosu kurun:
