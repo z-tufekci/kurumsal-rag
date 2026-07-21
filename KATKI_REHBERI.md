@@ -54,8 +54,11 @@ doğrudan push edilemez; kod yalnızca incelenmiş PR ile girer.
 - **İndeks bozuldu / sonuçlar tuhaf:** `indeks/` klasörünü sil,
   `python asama4_vektor_deposu.py` ile yeniden kur. İndeks türetilmiş
   veridir, silmek güvenlidir (bu yüzden git'te de yoktur).
-- **Aynı dosyaya iki kişi dokunuyor** (örn. `asama1` — Öğrenci 2 ve 4):
-  küçük PR açın, birbirinizi bekletmeyin; çakışma çıkarsa birlikte çözün.
+- **Aynı dosyaya iki kişi dokunuyor** (herkes her ödevi seçebildiği için
+  bu sık olur, örn. birden fazla kişi `asama1`'e dokunabilir): küçük PR'lar
+  açın, birbirinizi bekletmeyin; çakışma çıkarsa birlikte çözün. Bir ödevi
+  seçmeden önce ilgili issue'ya "üzerinde çalışıyorum" diye yorum bırakmak
+  mükerrer işi önler.
 
 ## Yapma listesi
 
