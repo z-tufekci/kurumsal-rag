@@ -96,10 +96,18 @@ kütüphane gerektirmeyen tam metin arama eklentisidir — BM25'i bunun
    araya girip listeyi kalabalıklaştırıyorsa şu komutla yalnızca gerçek
    kaçan soruları filtreleyebilirsiniz:
    ```
-   python degerlendirme.py --ayrinti | grep -A2 "(tekil)\|(sayisal)\|(es_anlamli)\|(coklu_dokuman)"
+   python degerlendirme.py --ayrinti | grep -E -A2 "\(tekil\)|\(sayisal\)|\(es_anlamli\)|\(coklu_dokuman\)"
    ```
    (`-A2`: eşleşen satırdan SONRAKİ 2 satırı da göster — asıl bilgi olan
-   `beklenen`/`gelen` alanları oradadır.)
+   `beklenen`/`gelen` alanları oradadır. `-E`: parantezleri düz karakter
+   olarak arayabilmek için genişletilmiş regex modu.)
+
+   **Önemli beklenti:** Bu ödevi bitirdiğinizde `python degerlendirme.py`
+   çalıştırırsanız GENEL isabet oranı DEĞİŞMEZ — bu normaldir, hata
+   değildir. BM25 henüz `asama5`'teki `ara()` işlevine bağlı değil,
+   yalnızca `asama7_bm25.py`'nin kendi testinde izole çalışıyor. Toplam
+   sayıya etkisini Ödev 3'te (Hybrid + RRF), BM25 dense aramayla
+   birleştirildiğinde göreceksiniz.
 2. `sqlite3.connect(INDEKS_KLASORU / "bm25.db")` ile AYRI bir veritabanı
    açın (vektör indeksinden bağımsız).
 3. FTS5 sanal tablosu kurun:

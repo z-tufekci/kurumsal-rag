@@ -1,4 +1,4 @@
-"""Aşama 7 — Sparse Arama (BM25, SQLite FTS5).
+r"""Aşama 7 — Sparse Arama (BM25, SQLite FTS5).
 
 Bu dosya bir İSKELETTİR: TODO'ları doldurarak tamamlayın. Adım numaraları
 gelistirme_odevleri.md'deki Ödev 2'nin "Adımlar" listesiyle birebir
@@ -9,6 +9,16 @@ yakın anlamlıları bulur. BM25 ise tam tersi bir mantıkla çalışan klasik
 bir arama yöntemidir: KELİME EŞLEŞMESİNE bakar. FTS5, SQLite'ın içine
 gömülü, ek kütüphane gerektirmeyen tam metin arama eklentisidir — BM25'i
 bunun üzerinden kuracaksınız.
+
+Hedef sorularınızı bulmak için (yok tipi sorular farklı bir problemdir,
+bu filtre onları eler):
+    python degerlendirme.py --ayrinti | grep -E -A2 "\(tekil\)|\(sayisal\)|\(es_anlamli\)|\(coklu_dokuman\)"
+
+ÖNEMLİ BEKLENTİ: Bu dosya kendi başına çalışır ama degerlendirme.py'nin
+GENEL isabet oranını DEĞİŞTİRMEZ — bu normaldir, hata değildir. BM25
+henüz asama5'teki ara() işlevine bağlı değil, yalnızca burada izole
+test ediliyor. Toplam sayıya etkisini Ödev 3'te (Hybrid + RRF)
+göreceksiniz.
 
 Çalıştır: python asama7_bm25.py   (önce asama4 ile indeks kurulmuş olmalı)
 """
