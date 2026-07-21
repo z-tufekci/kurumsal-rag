@@ -70,7 +70,9 @@ yazacaksınız.
     isabet oranı ve parça sayısındaki farkı not edin.
 
 ## 2. Sparse Arama (BM25) ⭐⭐
-**Dosya:** yeni — `asama7_bm25.py` · **Sunum konusu:** Retrieval (Sparse Search)
+**Dosya:** `asama7_bm25.py` (repoda hazır bir İSKELET var — TODO'ları
+doldurun; TODO numaraları aşağıdaki Adım numaralarıyla birebir eşleşir) ·
+**Sunum konusu:** Retrieval (Sparse Search)
 
 **Kavram:** Şu ana kadar kullandığımız "dense" (embedding) arama ANLAMA
 bakar — kelimeler farklı olsa bile yakın anlamlıları bulur. BM25 ise tam
